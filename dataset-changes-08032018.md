@@ -1,8 +1,7 @@
 # END Data Remediation Summer 2018
-
-Sam Herron; completed 8-3-18
  
-## Dataset modifications: to 0913
+## Dataset modifications: 
+- Changes pushed directly to [09132017-full.mrk](/earlynovels/data-remediation/blob/master/09132017-full.mrk)
 - All records with no date given filler date 10/10/10 (END only began to record dates in 2011, and so these records are generally the early ones, barring those later records that for some reason are dateless.) 6/18/2018
 - Added 260$c to records 440217, 440221, 440259 (identified by Alice as being without a publication date.) 6/20/2018
 - Other records provided by Alice have weirder issues: 380966 has different date in 260 vs. 001. 440313 and 440377 are both missing entire 260 field. 440425 is just a bizarre record, very sparse?
@@ -49,8 +48,8 @@ Sam Herron; completed 8-3-18
 - “Edition” to “edition” (10 modifications) 7/6/2018
 - “edition.” to “edition” (115 modifications) 7/6/2018
 - “edition “ to “edition” (3 modifications) 7/6/2018
-- 
-- 260$a
+ 
+### 260$a
 - “London :” to “London” (524 modifications) 7/6/2018
 - “London:” to “London” (63 modifications) 7/6/2018
 - “ London” to “London” (2 modifications) 7/6/2018
@@ -111,11 +110,13 @@ Sam Herron; completed 8-3-18
 - “v.2.” to “v.2” (10) 7/11/2018
 - “v.2 “ to “v.2” (8) 7/11/2018
 - “Vol. 1” to “v.1” (2) 7/11/2018
-- 591$v
+
+### 591$v
 - “v.1.” to “v.1” (4) 7/17/2018
 - “v.2.” to “v.2” (5) 7/17/2018
 - “v.v1” to “v.1” (1) 7/17/2018
-- 592$a
+
+### 592$a
 - “Dramatic Dialogue” to “Dramatic dialogue” (1) 7/17/2018
 - “Dramatic dialogue “ to “Dramatic dialogue” (2) 7/17/2018
 - “First-person.” to “First-person” (4) 7/17/2018
@@ -152,14 +153,16 @@ Sam Herron; completed 8-3-18
 - Lots of multiple 592s
 - Probably could change “Verse” to “Poems” but want to make sure cataloger wasn’t somehow distinguishing between the two? 
 - What to do with “Song”? 
-- 594$v
+
+### 594$v
 - “v. 1” to “v.1” (9) 7/17/2018
 - “v. 2” to “v.2” (5) 7/17/2018
 - “v.2.” to “v.2” (2) 7/17/2018
 - 595$v
 - “v. 1 “ to “v.1” (1) 7/17/2018
 - “v. 1” to “v.1” (5) 7/17/2018
-- 596a
+
+### 596a
 - “Translation “ to “Translation” (5) 7/17/2018
 - 596b
 - “Advertisement “ to “Advertisement” (1) 7/17/2018
@@ -178,7 +181,8 @@ Sam Herron; completed 8-3-18
 - Two people used this field as a location field? I.e. one record says “Title page” another “Title Page”. Should probably just be deleted. 
 - 596$v
 - “v. 2” to “v.2” (1) 7/18/18
-- 599$a
+
+### 599$a
 - “Author (source text) “ to “Author (source text)” (3) 7/18/18
 - “Author( text)” to “Author (text)” (1) 7/18/18
 - “Author(paratext)” to “Author (paratext)” (28) 7/18/18
@@ -222,13 +226,15 @@ Sam Herron; completed 8-3-18
 - “Indeterminate” to “Unknown” (27) 7/24/18
 - “Unknown “ to “Unknown” (4) 7/24/18 
 - “Unkown” to “Unknown” (2)7/24/18
-- 656a
+
+### 656a
 - “Mixed-genre” to “Mixed Genre” (14) 
 - “Mixed genre” to “Mixed Genre” (178) 
 - “Nonfiction” to “Non-fiction” (2) 
 - “Mixed Genre “ to “Mixed Genre” (2) 
 - “Mixed-Genre” to “Mixed Genre” (5) 
-- 656c
+
+### 656c
 - “No clear relation to work” to “No relation” (1) 
 - “Same Publisher” to “Same publisher” (22) 
 - “Same Author” to “Same author” (1) 
@@ -273,3 +279,5 @@ Sam Herron; completed 8-3-18
 - “Illustrator” to “Author (Illustration)” (28)
 - “Illustrated by” to “Author (Illustration)
 - “Author (Illustration)” to “Author (illustration)” (32) 
+
+Completed 8-3-18 by Sam Herron
