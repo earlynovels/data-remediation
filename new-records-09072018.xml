@@ -1606,7 +1606,6 @@
     <marc:datafield ind1=" " ind2=" " tag="592">
         <marc:subfield code="a">Ink</marc:subfield>
         <marc:subfield code="b">Reader markings</marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
         <marc:subfield code="x">On p. 5, reader crossed out the word "rate" and replaced with "Tear"; p. 6, reader inserted the word "wholly" and crossed out "only"; p. 12, reader crossed out "fortune" and replaced with "Fortescue"; p. 12, replaced "discussion" with "depression"; p. 16, inserted "this" between "of" and "romantic"; p. 46, replaced "force" with "frighten"</marc:subfield>
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
@@ -2742,7 +2741,7 @@
     <marc:datafield ind1="1" ind2=" " tag="700">
         <marc:subfield code="a">Blake, William,</marc:subfield>
         <marc:subfield code="d">1757-1827,</marc:subfield>
-        <marc:subfield code="e">ill.</marc:subfield>
+        <marc:subfield code="e">Unauthorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Mary Ann Williams</marc:subfield>
@@ -3201,13 +3200,13 @@
 
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Yearsley, Ann</marc:subfield>
-		<marc:subfield code="b">1753-1806</marc:subfield>
+		<marc:subfield code="d">1753-1806</marc:subfield>
 		<marc:subfield code="4">Author (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Yearsley, Ann</marc:subfield>
-		<marc:subfield code="b">1753-1806</marc:subfield>
+		<marc:subfield code="d">1753-1806</marc:subfield>
 		<marc:subfield code="4">Author (paratext)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
@@ -3536,12 +3535,12 @@
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Collyer, Mary,</marc:subfield>
 		<marc:subfield code="d">d. 1763.</marc:subfield>
-		<marc:subfield code="e">tr.</marc:subfield>
+		<marc:subfield code="e">Unauthorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Collyer, Joseph,</marc:subfield>
 		<marc:subfield code="d">d.1776,</marc:subfield>
-		<marc:subfield code="e">tr.</marc:subfield>
+		<marc:subfield code="e">Unauthorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Klopstock, Friedrich Gottlieb</marc:subfield>
@@ -3887,19 +3886,19 @@
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 	    <marc:subfield code="a">Williams, Helen Maria</marc:subfield>
-		<marc:subfield code="b">1762-1827‏</marc:subfield>
+		<marc:subfield code="d">1762-1827‏</marc:subfield>
 		<marc:subfield code="4">Translator (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 	    <marc:subfield code="a">Williams, Helen Maria</marc:subfield>
-		<marc:subfield code="b">1762-1827‏</marc:subfield>
+		<marc:subfield code="d">1762-1827‏</marc:subfield>
 		<marc:subfield code="4">Author (paratext)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Saint-Pierre, Bernardin de</marc:subfield>
-		<marc:subfield code="b">1737-1814</marc:subfield>
+		<marc:subfield code="d">1737-1814</marc:subfield>
 		<marc:subfield code="4">Author (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
@@ -3911,7 +3910,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Lingée, Charles-Louis</marc:subfield>
-		<marc:subfield code="b">1748-1819</marc:subfield>
+		<marc:subfield code="d">1748-1819</marc:subfield>
 		<marc:subfield code="4">Author (illustration)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
@@ -3940,12 +3939,12 @@
     <marc:datafield ind1="1" ind2=" " tag="700">
         <marc:subfield code="a">Williams, Helen Maria,</marc:subfield>
         <marc:subfield code="d">1762-1827,</marc:subfield>
-        <marc:subfield code="e">tr.</marc:subfield>
+        <marc:subfield code="e">Unauthorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1="1" ind2=" " tag="700">
         <marc:subfield code="a">Stone, John Hurford,</marc:subfield>
         <marc:subfield code="d">1763-1818,</marc:subfield>
-        <marc:subfield code="e">printer.</marc:subfield>
+        <marc:subfield code="e">Unauthorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="710">
 		<marc:subfield code="a">Librairie historique R. Clavreuil</marc:subfield>
@@ -4105,11 +4104,9 @@
 	</marc:datafield>
 	<marc:datafield tag="500" ind1=" " ind2=" ">
 		<marc:subfield code="a">Circular sticker on front paste-down endpaper, in ink: C 229</marc:subfield>
-		<marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="500" ind1=" " ind2=" ">
 		<marc:subfield code="a">Circular sticker on front paste-down endpaper, in ink: C 230</marc:subfield>
-		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield tag="510" ind1="4" ind2=" ">
@@ -4175,8 +4172,6 @@
 	<marc:datafield tag="592" ind1=" " ind2=" ">
 		<marc:subfield code="a">Epistolary</marc:subfield>
 		<marc:subfield code="a">First-person</marc:subfield>
-		<marc:subfield code="v">v.1</marc:subfield>
-		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield tag="594" ind1=" " ind2=" ">
