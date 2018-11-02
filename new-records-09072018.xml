@@ -11739,7 +11739,7 @@
 		<marc:subfield code="a">Errata</marc:subfield>
 		<marc:subfield code="b">Errata.</marc:subfield>
 		<marc:subfield code="c">Back</marc:subfield>
-		<marc:subfield code="v">Vol.2</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="591">
 		<marc:subfield code="a">Dicimus autem hos qouque felices, qui ferre incommoda vitae, nec jactare jugum, vita, didicere magistra.</marc:subfield>
@@ -29975,28 +29975,28 @@
 		<marc:subfield code="a">All's well that end's well; or, Alvaro and Ximenes. Vol. I.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Half</marc:subfield>
-		<marc:subfield code="v">Vol.1</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">All's well that end's well; or, Alvaro and Ximenes. A Spanish tale. Translated from the German of Dr. C.F Bahrdt. In two volumes.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">Vol.1</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2="0" tag="246">
 		<marc:subfield code="a">All's well that end's well; or, Alvaro and Ximenes. Vol. II.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Half</marc:subfield>
-		<marc:subfield code="v">Vol.2</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">All's well that end's well; or, Alvaro and Ximenes. A Spanish tale. Translated from the German of Dr. C.F Bahrdt. In two volumes.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">Vol.2</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="0" ind2="7" tag="246">
