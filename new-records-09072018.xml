@@ -2740,8 +2740,8 @@
     </marc:datafield>
     <marc:datafield ind1="1" ind2=" " tag="700">
         <marc:subfield code="a">Blake, William,</marc:subfield>
-        <marc:subfield code="d">1757-1827,</marc:subfield>
-        <marc:subfield code="e">Unauthorized</marc:subfield>
+        <marc:subfield code="d">1757-1827</marc:subfield>
+        <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Mary Ann Williams</marc:subfield>
@@ -3535,12 +3535,12 @@
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Collyer, Mary,</marc:subfield>
 		<marc:subfield code="d">d. 1763.</marc:subfield>
-		<marc:subfield code="e">Unauthorized</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Collyer, Joseph,</marc:subfield>
 		<marc:subfield code="d">d.1776,</marc:subfield>
-		<marc:subfield code="e">Unauthorized</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Klopstock, Friedrich Gottlieb</marc:subfield>
@@ -3939,12 +3939,12 @@
     <marc:datafield ind1="1" ind2=" " tag="700">
         <marc:subfield code="a">Williams, Helen Maria,</marc:subfield>
         <marc:subfield code="d">1762-1827,</marc:subfield>
-        <marc:subfield code="e">Unauthorized</marc:subfield>
+        <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1="1" ind2=" " tag="700">
         <marc:subfield code="a">Stone, John Hurford,</marc:subfield>
         <marc:subfield code="d">1763-1818,</marc:subfield>
-        <marc:subfield code="e">Unauthorized</marc:subfield>
+        <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="710">
 		<marc:subfield code="a">Librairie historique R. Clavreuil</marc:subfield>
@@ -5191,7 +5191,7 @@
 		<marc:subfield code="a">Salisbury</marc:subfield>
 		<marc:subfield code="b">Printed by J. Easton; For E. Newberry, the corner of St. Paul's church-yard, London.</marc:subfield>
 		<marc:subfield code="c">1795.</marc:subfield>
-		<marc:subfield code="d">1795</marc:subfield>
+		<marc:subfield code="c">1795</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="261" ind1="0" ind2=" ">
         <marc:subfield code="b">Printed Printed by J. Easton; For E. Newberry, the corner of St. Paul's church-yard, London.</marc:subfield>
@@ -5676,8 +5676,8 @@
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">From the German of Veit Weber</marc:subfield>
 		<marc:subfield code="3">Title Page</marc:subfield>
-		<marc:subfield code="4">Male</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
+		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Wächter, Leonhard</marc:subfield>
@@ -6109,7 +6109,6 @@
 	</marc:datafield>
 	<marc:datafield tag="500" ind1=" " ind2=" ">
         <marc:subfield code="a">On front paste-down endpaper, bookplate of Library of the University of Pennslyvania; transcription of bottom of bookplate, in ink: "The Godfrey F. Singer Memorial Presented by Mr. and Mrs. Jacob Singer" </marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="500" ind1=" " ind2=" ">
         <marc:subfield code="a">Printer's ornament on p.101 of v.2.</marc:subfield>
@@ -6581,7 +6580,7 @@
 		<marc:subfield code="a">London</marc:subfield>
 		<marc:subfield code="b">Printed for Charles Dilly, in the Poultry.</marc:subfield>
 		<marc:subfield code="c">1795</marc:subfield>
-		<marc:subfield code="d">1795.</marc:subfield>
+		<marc:subfield code="c">1795.</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="v">v.3</marc:subfield>
@@ -7326,7 +7325,7 @@
 		<marc:subfield code="a">Philadelphia</marc:subfield>
 		<marc:subfield code="b">From the store of Thomas Stephens, no. 60, South Second Street.</marc:subfield>
 		<marc:subfield code="c">1795</marc:subfield>
-		<marc:subfield code="d">1795.</marc:subfield>
+		<marc:subfield code="c">1795.</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
@@ -8281,7 +8280,7 @@
 	</marc:datafield>
 	<marc:datafield ind1="0" ind2="7" tag="246">
 		<marc:subfield code="a">Montford Castle. (recto)</marc:subfield>
-		<marc:subfield code="b">Montford Castle. (verso)</marc:subfield>
+		<marc:subfield code="a">Montford Castle. (verso)</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
@@ -8606,7 +8605,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Pope, Alexander</marc:subfield>
-        <marc:subfield code="b">1688-1744</marc:subfield>
+        <marc:subfield code="d">1688-1744</marc:subfield>
         <marc:subfield code="4">Author (epigraph)</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
@@ -8662,7 +8661,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Mendenhall, John Cooper</marc:subfield>
-        <marc:subfield code="b">1886-</marc:subfield>
+        <marc:subfield code="d">1886-</marc:subfield>
         <marc:subfield code="4">Inscribed by</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
@@ -9875,13 +9874,13 @@
 
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Collyer, Mary,</marc:subfield>
-		<marc:subfield code="d">d. 1763.</marc:subfield>
-		<marc:subfield code="e">tr.</marc:subfield>
+		<marc:subfield code="d">d. 1763</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Collyer, Joseph,</marc:subfield>
-		<marc:subfield code="d">d.1776,</marc:subfield>
-		<marc:subfield code="e">tr.</marc:subfield>
+		<marc:subfield code="d">d. 1776</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 	    <marc:subfield code="a">Collyer, Mary</marc:subfield>
@@ -12538,9 +12537,6 @@
     </marc:datafield>   
     <marc:datafield tag="592" ind1=" " ind2=" ">
         <marc:subfield code="a">First-person</marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
-        <marc:subfield code="v">v.2</marc:subfield>
-        <marc:subfield code="v">v.3</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="595" ind1=" " ind2=" ">
         <marc:subfield code="a">Ink</marc:subfield>
@@ -15080,7 +15076,7 @@
 		<marc:subfield code="a">London</marc:subfield>
 		<marc:subfield code="b">Printed for William Lane, Minerva, Leadenhall Street.</marc:subfield>
 		<marc:subfield code="c">1795</marc:subfield>
-		<marc:subfield code="d">M.DCC.XCV.</marc:subfield>
+		<marc:subfield code="c">M.DCC.XCV.</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">No title page/publication information in v.2</marc:subfield>
 	</marc:datafield>
@@ -15283,7 +15279,7 @@
 		<marc:subfield code="a">Dublin</marc:subfield>
 		<marc:subfield code="b">Printed for Messrs. Wogan, Byrne and Rice.</marc:subfield>
 		<marc:subfield code="c">1795</marc:subfield>
-		<marc:subfield code="d">1795.</marc:subfield>
+		<marc:subfield code="c">1795.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="300" ind1=" " ind2=" ">
 		<marc:subfield code="a">300 p. ;</marc:subfield>
@@ -15585,7 +15581,6 @@
     </marc:datafield>
 	<marc:datafield ind1="1" ind2="0" tag="700">
 		<marc:subfield code="a">C--r, Mary,</marc:subfield>
-		<marc:subfield code="c">Lady.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Lane, William</marc:subfield>
@@ -15851,7 +15846,6 @@
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2="0" tag="700">
 		<marc:subfield code="a">Purbeck,</marc:subfield>
-		<marc:subfield code="c">Miss,</marc:subfield>
 		<marc:subfield code="d">fl. 1791.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -16110,7 +16104,6 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="593">
         <marc:subfield code="a">His Royal Highness the Duchess of York, His Royal Highness the Duke of Gloucester, Earl of Ashburnham, Countess of Ancram, Viscount St. Asaph, Right Hon. Lady Henrietta Ashburnham, Right Hon. Lady Archer, Miss Abercromby, Miss Abrams, James Adams, Esq., Mrs. Agnew, Miss Alderson, Mrs. Allanson, Rev. Stephen Allen, Lynn, Maxey Allen, Esq. Lynn, Mrs. John Towers Allen, Mrs. Jane Allen, Samuel Anderson, Esq., Mrs Andre</marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
         <marc:subfield code="x">The list is long and only the first page is recorded.</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="594">
@@ -18651,15 +18644,15 @@
 		<marc:subfield code="a">The House of Tynian. A Novel. In Two Volumes. By George Walker. Vol. I. </marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">Volume</marc:subfield>
-		<marc:subfield code="z">v.1</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>	
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The House of Tynian. A Novel. In Two Volumes. By George Walker. Vol. I.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">Volume</marc:subfield>
-		<marc:subfield code="z">v.2</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="246" ind1="0" ind2="7">
         <marc:subfield code="a">The House of Tynian.</marc:subfield>
@@ -20743,7 +20736,6 @@
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="593">
         <marc:subfield code="a">His Grace the Duke of Athol, Her Grace the Duchess of Athol, The Earl of Ashburnham, The Rt. Hon. Lady Eliz. Ashburnham, The Right Hon. Lord Arden, The Rt. Hon. Lady Charles Aynsley, Mrs. Arnold, Mrs. Anderson, Miss Frances Ashburnham, Captain Andrews, Captain Attle, Mrs: Affleck, - Antrobus, Esq.</marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
         <marc:subfield code="x">The list is long, only first page recorded. Heading: "Names of the Subscribers." Located at front.</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
@@ -21130,7 +21122,7 @@
 		<marc:subfield code="s">g. John C. Mendenhall</marc:subfield>
 		<marc:subfield code="i">03/16/87 C</marc:subfield>
 	</marc:datafield>
-	<marc:datafield ind1=" " ind2=" " tag="246">
+	<marc:datafield ind1=" " ind2=" " tag="989">
 		<marc:subfield code="2">Child</marc:subfield>
 		<marc:subfield code="2">Abbey</marc:subfield>
 		<marc:subfield code="2">Tale</marc:subfield>
@@ -21140,7 +21132,7 @@
 		<marc:subfield code="3">Second</marc:subfield>
 		<marc:subfield code="5">Regina Maria Roche</marc:subfield>
 	</marc:datafield>
-	<marc:datafield ind1=" " ind2=" " tag="989">
+	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
 		<marc:subfield code="b">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/17/18</marc:subfield>
@@ -22567,7 +22559,6 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="593">
         <marc:subfield code="a">H. R. H. The Princess of Wales., H. R. H. The Duchess of York., Duchess of Marlborough, Duchess of Richmond (dec.), Duchess of Devonshire, Duchess of Northhumberland, Duchess of Leeds, Duchess of Athol, Duchess of Ancaster, Duchess of Newcastle, Duchess of Buccleugh, Marchioness of Salibury, Marchioness of Abercorn, Marchioness of Titchfield, Countess of Cholmondeley, Coutess of Suffolk</marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
         <marc:subfield code="x">The list is long and only first few names are recorded.</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
@@ -22871,10 +22862,7 @@
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Montesquieu, Charles de Secondat,</marc:subfield>
-		<marc:subfield code="c">baron de,</marc:subfield>
 		<marc:subfield code="d">1689-1755.</marc:subfield>
-		<marc:subfield code="t">Arsace et Isménie.</marc:subfield>
-		<marc:subfield code="l">English.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Montesquieu, Charles de Secondat, baron de</marc:subfield>
@@ -24598,49 +24586,49 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. I.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. II.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. III.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.3</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. IV.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.4</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. V.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.5</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. VI.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.6</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. VII.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.7</marc:subfield>
@@ -25356,7 +25344,6 @@
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Goethe, Johann Wolfgang von,</marc:subfield>
 		<marc:subfield code="d">1749-1832.</marc:subfield>
-		<marc:subfield code="t">Werther.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">James, William</marc:subfield>
@@ -28204,7 +28191,6 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="593">
         <marc:subfield code="a">Miss Archdeacon, Edinburgh; Capt. Steven Atkinson; Mrs. John Atkinson; Miss Baldwin, 3 copies; Doctor Bancroft; Miss Bancroft; Miss Julia Bancroft; Richard Barker, Esq.; Mrs. Barker, 2 copies;</marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
         <marc:subfield code="x">Only first page is recorded here.</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="596">
@@ -28463,7 +28449,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="591">
 		<marc:subfield code="a">Oh serpent heart, hid with a flowery face, ---Did ever dragon keep so fair a cave? ---Beautiful tyrant, fiend angelical! ---.......... ---Just so opposite to what thou justly seem'st.</marc:subfield>
-		<marc:subfield code="3">Shakespeare.</marc:subfield>
+		<marc:subfield code="2">Shakespeare.</marc:subfield>
 		<marc:subfield code="b">Romeo and Juliet</marc:subfield>
 		<marc:subfield code="c">William Shakespeare</marc:subfield>
 	</marc:datafield>
@@ -28496,7 +28482,6 @@
 	</marc:datafield>
 	<marc:datafield ind1="0" ind2="0" tag="700">
 		<marc:subfield code="a">Helen,</marc:subfield>
-		<marc:subfield code="c">of Herefordshire.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Martin, Mrs.</marc:subfield>
@@ -29479,7 +29464,6 @@
 	<marc:datafield ind1="1" ind2="1" tag="700">
 		<marc:subfield code="a">Reeve, Clara,</marc:subfield>
 		<marc:subfield code="d">1729-1807.</marc:subfield>
-		<marc:subfield code="t">Champion of virtue.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Reeve, Clara</marc:subfield>
@@ -30822,27 +30806,21 @@
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Judah, Naphtali,</marc:subfield>
 		<marc:subfield code="d">1773?-1855,</marc:subfield>
-		<marc:subfield code="e">bookseller.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Scoles, John,</marc:subfield>
 		<marc:subfield code="d">1772?-1853,</marc:subfield>
-		<marc:subfield code="e">engraver.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Davis, William</marc:subfield>
-		<marc:subfield code="e">printer.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Goethe, Johann Wolfgang von,</marc:subfield>
 		<marc:subfield code="d">1749-1832.</marc:subfield>
-		<marc:subfield code="t">Werther.</marc:subfield>
-		<marc:subfield code="l">English.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Goethe, Johann Wolfgang von,</marc:subfield>
 		<marc:subfield code="d">1749-1832.</marc:subfield>
-		<marc:subfield code="t">Werther.</marc:subfield>
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Davis, William A.</marc:subfield>
@@ -31312,7 +31290,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Burney, Fanny</marc:subfield>
-		<marc:subfield code="b">1752-1840</marc:subfield>
+		<marc:subfield code="d">1752-1840</marc:subfield>
 		<marc:subfield code="4">Author (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
