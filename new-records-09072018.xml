@@ -663,8 +663,8 @@
         <marc:subfield code="v">v.2</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="246" ind1="0" ind2="7">
-        <marc:subfield code="a">Montalbert.(verso)</marc:subfield>
-        <marc:subfield code="a">Montalbert.(recto)</marc:subfield>
+        <marc:subfield code="a">Montalbert. (verso)</marc:subfield>
+        <marc:subfield code="a">Montalbert. (recto)</marc:subfield>
         <marc:subfield code="v">v.1</marc:subfield>
         <marc:subfield code="v">v.2</marc:subfield>
     </marc:datafield>
@@ -4378,7 +4378,7 @@
 		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="260" ind1="0" ind2=" ">
-		<marc:subfield code="a">London :</marc:subfield>
+		<marc:subfield code="a">London</marc:subfield>
 		<marc:subfield code="b">Printed for C. Dilly ...,</marc:subfield>
 		<marc:subfield code="c">1795.</marc:subfield>
 	</marc:datafield>
