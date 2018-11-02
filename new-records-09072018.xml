@@ -1871,8 +1871,8 @@
         <marc:subfield code="e">Translated from the French of M. Ramsey.</marc:subfield>
 	</marc:datafield>  
 	<marc:datafield ind1=" " ind2=" " tag="599">
-        <marc:subfield code="a">Author(text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="a">Author (text)</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Translated from the French of M. Ramsey.</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -1896,7 +1896,7 @@
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Author (paratext)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Letter From M. Freret (Member of the Academy of Inscriptions at Paris) to the Author, concerning the chronology of his work.</marc:subfield>
         <marc:subfield code="3">Letter</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -2478,7 +2478,7 @@
     </marc:datafield> 
         <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Editor (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">A new edition to which are subjoined notes, by Mr. Samuel Adams.</marc:subfield>
         <marc:subfield code="3">Preface</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -3505,7 +3505,7 @@
         <marc:subfield code="e">Attempted from the German of Mr. Klopstock, by Joseph Collyer.</marc:subfield>
 	</marc:datafield>  
 	<marc:datafield ind1=" " ind2=" " tag="599">
-        <marc:subfield code="a">Author(text)</marc:subfield>
+        <marc:subfield code="a">Author (text)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Attempted from the German of Mr. Klopstock</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
@@ -5458,7 +5458,7 @@
     </marc:datafield>
     <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Translated from the German of Grosse.</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -12581,7 +12581,7 @@
 	</marc:datafield>
     <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Translator (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Founded on historical facts, and translated from the German of Cajetan Tschink. ---By P. Will</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -12592,7 +12592,7 @@
     </marc:datafield>
     <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Author (paratext)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">The translator has nothing to add, but to apologize for the foreign idioms which may perhaps occur to the discerning eyes of the keen-sighted critic, and hopes that his labor will contribute, at least something to the desctruction of fanaticism in this century. ---P. Will.</marc:subfield>
         <marc:subfield code="3">Preface</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -13313,7 +13313,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
 	    <marc:subfield code="a">Author (source text)</marc:subfield>
-		<marc:subfield code="b">Proper Name</marc:subfield>
+		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">From the German of Schiller</marc:subfield>
 	    <marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
@@ -15133,7 +15133,7 @@
 	</marc:datafield>
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 		<marc:subfield code="a">Author (text)</marc:subfield>
-		<marc:subfield code="b">Generic</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">Written by a young lady.</marc:subfield>
 		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
@@ -16121,7 +16121,7 @@
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Madam, your majesty's most obedient, most obliged, and most dutiful servant, F. d'Arblay</marc:subfield>
         <marc:subfield code="3">Dedication</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
@@ -16181,7 +16181,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Burney, Fanny</marc:subfield>
         <marc:subfield code="d">1752-1840</marc:subfield>
-        <marc:subfield code="4">Author(text)</marc:subfield>
+        <marc:subfield code="4">Author (text)</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -18256,7 +18256,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">By Donald Campbell, of Barbreck, Esq.</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -18508,7 +18508,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Campbell, Donald</marc:subfield>
 		<marc:subfield code="d">1751-1804‏</marc:subfield>
-		<marc:subfield code="4">Author(text)</marc:subfield>
+		<marc:subfield code="4">Author (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -18736,7 +18736,7 @@
 	</marc:datafield>
 
 	<marc:datafield ind1=" " ind2=" " tag="599">
-		<marc:subfield code="a">Author(text)</marc:subfield>
+		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By George Walker</marc:subfield>
 		<marc:subfield code="3">Title page</marc:subfield>
@@ -24170,7 +24170,7 @@
 		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
-        <marc:subfield code="a">Author(text)</marc:subfield>
+        <marc:subfield code="a">Author (text)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">By Ann Radcliffe</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
@@ -24178,7 +24178,7 @@
         <marc:subfield code="6">Female</marc:subfield>
     </marc:datafield>     
     <marc:datafield ind1=" " ind2=" " tag="599">
-        <marc:subfield code="a">Author(text)</marc:subfield>
+        <marc:subfield code="a">Author (text)</marc:subfield>
         <marc:subfield code="b">Reference to other works</marc:subfield>
         <marc:subfield code="2">By Ann Radcliffe, Author of the Mysteries of Udolpho, &amp;c. &amp;c.</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
@@ -25548,7 +25548,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">By M. S. Pilkington</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
@@ -25757,7 +25757,7 @@
         <marc:subfield code="e">From the French of Alain-Rene Le Sage</marc:subfield>
 	</marc:datafield>  
     <marc:datafield ind1=" " ind2=" " tag="599">
-        <marc:subfield code="a">Author(text)</marc:subfield>
+        <marc:subfield code="a">Author (text)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">From the French of Alain-Rene Le Sage, Author of the Celebrated Novels of "Gil Bas" and "The Devil Upon Crutches."</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
@@ -26234,7 +26234,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Relf, Samuel</marc:subfield>
 		<marc:subfield code="d">1776-1823</marc:subfield>
-		<marc:subfield code="4">Author(text)</marc:subfield>
+		<marc:subfield code="4">Author (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -26613,7 +26613,7 @@
         <marc:subfield code="c">Alexander Pope</marc:subfield>            
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="592">
-        <marc:subfield code="a">Third-Person</marc:subfield>
+        <marc:subfield code="a">Third-person</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="594">
         <marc:subfield code="a">[illegible] 1815</marc:subfield>
@@ -26996,7 +26996,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">By Mrs. Pilkington</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Female</marc:subfield>
@@ -27032,7 +27032,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Pilkington, Mary</marc:subfield>
         <marc:subfield code="d">1766-1839</marc:subfield>
-        <marc:subfield code="4">Author(text)</marc:subfield>
+        <marc:subfield code="4">Author (text)</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -30982,7 +30982,7 @@
     </marc:datafield>     
     <marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">the work of the amiable and immortal Fenelon</marc:subfield>
         <marc:subfield code="3">Dedication</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -30991,7 +30991,7 @@
     </marc:datafield>    
     <marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Translator (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Revised and corrected by Joseph Nancrede, French instructor in the University of Cambridge.</marc:subfield>
         <marc:subfield code="3">Dedication</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
