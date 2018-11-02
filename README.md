@@ -6,7 +6,7 @@ The most recent master copy of the dataset is located on the [END Dataset reposi
 
 ## Documentation of changes to dataset
 
-- 8-3-18 remediation of September 2017 full dataset by Sam Herron [documentation](https://github.com/data-remediation/dataset-changes-08032018.md)
+- 8-3-18 remediation of September 2017 full dataset by Sam Herron [documentation](https://github.com/earlynovels/data-remediation/blob/master/dataset-changes-08032018.md)
 
 - 11-2-18 checking/remediation of Summer 2018 new records (in process)
 
