@@ -1603,7 +1603,7 @@
         <marc:subfield code="a">Epistolary</marc:subfield>
         <marc:subfield code="b">First-person</marc:subfield>
     </marc:datafield>
-    <marc:datafield ind1=" " ind2=" " tag="592">
+    <marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Ink</marc:subfield>
         <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">On p. 5, reader crossed out the word "rate" and replaced with "Tear"; p. 6, reader inserted the word "wholly" and crossed out "only"; p. 12, reader crossed out "fortune" and replaced with "Fortescue"; p. 12, replaced "discussion" with "depression"; p. 16, inserted "this" between "of" and "romantic"; p. 46, replaced "force" with "frighten"</marc:subfield>
@@ -20991,7 +20991,7 @@
 
 	<marc:datafield ind1=" " ind2=" " tag="592">
 		<marc:subfield code="a">Third-person</marc:subfield>
-		<marc:subfield code="a">Epistolary/marc:subfield>
+		<marc:subfield code="a">Epistolary</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield ind1=" " ind2=" " tag="595">
@@ -25956,7 +25956,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="592">
         <marc:subfield code="a">Epistolary</marc:subfield>
-        <marc:subfield code="b">First-Person</marc:subfield>
+        <marc:subfield code="a">First-person</marc:subfield>
     </marc:datafield>
    <marc:datafield ind1=" " ind2=" " tag="593">
         <marc:subfield code="a">Mr. Ashton Alexander, M.D. Baltimore, 2 copies., William Ashton, South Carolina., Mrs. Charlotte Allcorn., Mary Adgate., Mr. Samuel Anderson, jun., Hector Aitjen., Allen.</marc:subfield>
