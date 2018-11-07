@@ -286,7 +286,7 @@
     <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Henry Studdy</marc:subfield>
         <marc:subfield code="4">Author (bookplate)</marc:subfield>
-        <marc:subfield code="5">Unathorized</marc:subfield>
+        <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
   	<marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Cadell, Thomas</marc:subfield>
@@ -1389,7 +1389,7 @@
     <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Robinson, John</marc:subfield>
 		<marc:subfield code="d">1752-1813</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield tag="700" ind1=" " ind2=" ">
@@ -1650,12 +1650,12 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Lane, William</marc:subfield>
         <marc:subfield code="d">1745-1814</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 	    <marc:datafield ind1=" " ind2=" " tag="710">
         <marc:subfield code="a">Minerva Press</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 		<marc:datafield ind1="2" ind2=" " tag="710">
@@ -8600,7 +8600,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Ann Thomas</marc:subfield>
         <marc:subfield code="4">Author (text)</marc:subfield>
-        <marc:subfield code="5">Unathorized</marc:subfield>
+        <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Pope, Alexander</marc:subfield>
@@ -11319,7 +11319,7 @@
 	<marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Lane, William</marc:subfield>
         <marc:subfield code="d">1745-1814</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="710" ind1=" " ind2=" ">
@@ -11806,30 +11806,30 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Strahan, Andrew</marc:subfield>
 		<marc:subfield code="d">1749-1831</marc:subfield>
-		<marc:subfield code="4">Printed For</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Cadell, Thomas</marc:subfield>
         <marc:subfield code="d">1742-1802</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Cadell, Thomas</marc:subfield>
         <marc:subfield code="d">171.?-178.</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Davies, William</marc:subfield>
 		<marc:subfield code="d">17..-1819</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
 		<marc:datafield ind1=" " ind2=" " tag="710">
 		<marc:subfield code="a">Cadell &amp; Davies</marc:subfield>
-		<marc:subfield code="4">Printed For</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 		<marc:datafield ind1="2" ind2=" " tag="710">
@@ -12062,30 +12062,30 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Strahan, Andrew</marc:subfield>
 		<marc:subfield code="d">1749-1831</marc:subfield>
-		<marc:subfield code="4">Printed For</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
     <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Cadell, Thomas</marc:subfield>
         <marc:subfield code="d">1742-1802</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Cadell, Thomas</marc:subfield>
         <marc:subfield code="d">171.?-178.</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
      <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Davies, William</marc:subfield>
 		<marc:subfield code="d">17..-1819</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="710">
 		<marc:subfield code="a">Cadell &amp; Davies</marc:subfield>
-		<marc:subfield code="4">Printed For</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="710">
@@ -13127,12 +13127,12 @@
 	</marc:datafield>
 	<marc:datafield ind1="2" ind2=" " tag="710">
 		<marc:subfield code="a">Cadell &amp; Davies</marc:subfield>
-		<marc:subfield code="4">Printed For</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="2" ind2=" " tag="710">
 		<marc:subfield code="a">G. and T. Wilkie (Firm)</marc:subfield>
-		<marc:subfield code="4">Printed For</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="950">
@@ -13974,7 +13974,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Bell, John</marc:subfield>
 		<marc:subfield code="d">1745-1831</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -14955,7 +14955,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Walker, George</marc:subfield>
 		<marc:subfield code="d">1772-1847</marc:subfield>
-		<marc:subfield code="4">Author</marc:subfield>
+		<marc:subfield code="4">Author (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -15584,7 +15584,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Lane, William</marc:subfield>
         <marc:subfield code="d">1745-1814</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -16722,7 +16722,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">William Lane</marc:subfield>
         <marc:subfield code="d">1745-1814</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -16928,34 +16928,34 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">John Barlow</marc:subfield>
-        <marc:subfield code="4">Printed By</marc:subfield>
+        <marc:subfield code="4">Printed by</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Burnside, Thomas</marc:subfield>
 		<marc:subfield code="d">fl. 1796-1798</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Byrne, Patrick</marc:subfield>
 		<marc:subfield code="d">1741?-1814</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">J. Rice</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">J. Boyce</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">W. Porter</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -17838,7 +17838,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Low, Sampson</marc:subfield>
         <marc:subfield code="d">1797-1886</marc:subfield>
-        <marc:subfield code="4">Printed By</marc:subfield>
+        <marc:subfield code="4">Printed by</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -18978,7 +18978,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">C. H. Humphrey</marc:subfield>
 		<marc:subfield code="4">Inscribed by</marc:subfield>
-		<marc:subfield code="5">Unuthorized</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield ind1="2" ind2=" " tag="710">
@@ -20043,77 +20043,77 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Wogan, Patrick</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Bryne, Lars P.</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Exshaw, J. (John)</marc:subfield>
         <marc:subfield code="d">1750 or 51-1827</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Moore, John</marc:subfield>
         <marc:subfield code="d">1729-1802</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Colbert, H. (Harriot)</marc:subfield>
         <marc:subfield code="d">fl. 1786-1807</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Kelly, Nicholas</marc:subfield>
         <marc:subfield code="d">active 1764-1828</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Fitzpatrick, Hugh</marc:subfield>
         <marc:subfield code="d">-1818</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Folingsby, George</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">T. Stewart</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">W. Porter</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Halpen, John</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Milliken, John</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">J. Rice</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">J. Boyce</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1="2" ind2=" " tag="710">
@@ -20757,7 +20757,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Hookham, Thomas</marc:subfield>
         <marc:subfield code="d">1739?-1819</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -23348,7 +23348,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Hookham, Thomas</marc:subfield>
         <marc:subfield code="d">1739?-1819</marc:subfield>
-        <marc:subfield code="4">Printed By</marc:subfield>
+        <marc:subfield code="4">Printed by</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -25565,7 +25565,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Newbery, E. (Elizabeth)</marc:subfield>
         <marc:subfield code="d">1746-1821</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -25795,7 +25795,7 @@
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="710">
         <marc:subfield code="a">G. G. and J. Robinson</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>         
 	<marc:datafield ind1="2" ind2=" " tag="710">
@@ -27025,7 +27025,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Newbery, E. (Elizabeth)</marc:subfield>
         <marc:subfield code="d">1746-1821</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -29723,7 +29723,7 @@
     </marc:datafield>  
 <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">J. Robinson</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
 
@@ -31022,7 +31022,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Decombaz, Gabriel</marc:subfield>
         <marc:subfield code="d">-1799</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1="2" ind2=" " tag="710">
