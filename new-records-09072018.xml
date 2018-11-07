@@ -865,7 +865,7 @@
     <marc:datafield tag="999" ind1=" " ind2=" ">
         <marc:subfield code="a">IC</marc:subfield>
         <marc:subfield code="b">6/7/18</marc:subfield>
-        <marc:subfield code="c">University of Pennslyvania</marc:subfield>
+        <marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">OF</marc:subfield>
     </marc:datafield>
 </marc:record>
@@ -1710,7 +1710,7 @@
     <marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">IC</marc:subfield>
 		<marc:subfield code="b">6/13/18</marc:subfield>
-		<marc:subfield code="c">University of Pennslyvania</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">DPL</marc:subfield>
 	</marc:datafield>
 </marc:record>
@@ -2564,7 +2564,7 @@
     <marc:datafield tag="999" ind1=" " ind2=" ">
         <marc:subfield code="a">IC</marc:subfield>
         <marc:subfield code="b">6/6/18</marc:subfield>
-        <marc:subfield code="c">University of Pennslyvania</marc:subfield>
+        <marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">OF</marc:subfield>
     </marc:datafield>
 </marc:record><marc:record>
@@ -4297,7 +4297,7 @@
 
 	<marc:datafield tag="999" ind1=" " ind2=" ">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">6/4/2018</marc:subfield>
+		<marc:subfield code="b">6/4/18</marc:subfield>
 		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -4582,7 +4582,7 @@
 	</marc:datafield>
 	<marc:datafield tag="999" ind1=" " ind2=" ">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">6/1/2018</marc:subfield>
+		<marc:subfield code="b">6/1/18</marc:subfield>
 		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="d">DPL</marc:subfield>
 	</marc:datafield>
@@ -5116,8 +5116,8 @@
     </marc:datafield>
     <marc:datafield tag="999" ind1=" " ind2=" ">
         <marc:subfield code="a">IC</marc:subfield>
-        <marc:subfield code="b">6/01/18</marc:subfield>
-        <marc:subfield code="c">University of Pennslyvania</marc:subfield>
+        <marc:subfield code="b">6/1/18</marc:subfield>
+        <marc:subfield code="c">University of Pennsylvania</marc:subfield>
         <marc:subfield code="d">OF</marc:subfield>
     </marc:datafield>
 </marc:record>
@@ -5295,7 +5295,7 @@
 	<marc:datafield tag="999" ind1=" " ind2=" ">
 		<marc:subfield code="a">SH</marc:subfield>
 		<marc:subfield code="b">6/5/18</marc:subfield>
-		<marc:subfield code="c">University of Pennslyvania</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
 </marc:record>
@@ -5734,7 +5734,7 @@
 	<marc:datafield tag="999" ind1=" " ind2=" ">
 		<marc:subfield code="a">SH</marc:subfield>
 		<marc:subfield code="b">6/5/18</marc:subfield>
-		<marc:subfield code="c">University of Pennslyvania</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
 </marc:record>
@@ -6005,7 +6005,7 @@
             <marc:datafield tag="999" ind1=" " ind2=" ">
                 <marc:subfield code="a">IC</marc:subfield>
                 <marc:subfield code="b">6/4/18</marc:subfield>
-                <marc:subfield code="c">University of Pennslyvania</marc:subfield>
+                <marc:subfield code="c">University of Pennsylvania</marc:subfield>
                 <marc:subfield code="d">AS</marc:subfield>
             </marc:datafield>
         </marc:record><marc:record>
@@ -6757,7 +6757,7 @@
 	</marc:datafield>
 	<marc:datafield tag="999" ind1=" " ind2=" ">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">6/5/2018</marc:subfield>
+		<marc:subfield code="b">6/5/18</marc:subfield>
 		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="d">DPL</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
@@ -8702,7 +8702,7 @@
     <marc:datafield tag="999" ind1=" " ind2=" ">
 		<marc:subfield code="a">IC</marc:subfield>
 		<marc:subfield code="b">6/20/18</marc:subfield>
-		<marc:subfield code="c">University of Pennslyvania</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">AS</marc:subfield>
 	</marc:datafield>
 </marc:record><marc:record>
@@ -9473,7 +9473,7 @@
     <marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">IC</marc:subfield>
 		<marc:subfield code="b">7/3/18</marc:subfield>
-		<marc:subfield code="c">University of Pennslyvania</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">OF</marc:subfield>
 	</marc:datafield>
 </marc:record><marc:record>
@@ -9670,7 +9670,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">IC</marc:subfield>
-		<marc:subfield code="b">7/518</marc:subfield>
+		<marc:subfield code="b">7/5/18</marc:subfield>
 		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">DPL</marc:subfield>
 	</marc:datafield>
@@ -10690,7 +10690,7 @@
     <marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">IC</marc:subfield>
 		<marc:subfield code="b">6/19/18</marc:subfield>
-		<marc:subfield code="c">University of Pennslyvania</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">OF</marc:subfield>
 	</marc:datafield>
 </marc:record>
@@ -11099,7 +11099,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="710">
         <marc:subfield code="a">Hookham and Carpenter (London, England)</marc:subfield>
-        <marc:subfield code="4">Sold By</marc:subfield>
+        <marc:subfield code="4">Sold by</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>         
 	<marc:datafield ind1="2" ind2=" " tag="710">
@@ -12697,8 +12697,8 @@
     </marc:datafield>
     <marc:datafield tag="999" ind1=" " ind2=" ">
         <marc:subfield code="a">DPL</marc:subfield>
-        <marc:subfield code="b">6/6/2018</marc:subfield>
-        <marc:subfield code="c">Univerisity of Pennsylvania</marc:subfield>
+        <marc:subfield code="b">6/6/18</marc:subfield>
+        <marc:subfield code="c">University of Pennsylvania</marc:subfield>
         <marc:subfield code="d">OF</marc:subfield>
     </marc:datafield>
 </marc:record>
@@ -13602,8 +13602,8 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
-		<marc:subfield code="c">6/21/18</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
+		<marc:subfield code="b">6/21/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
 </marc:record>
@@ -14264,7 +14264,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/2/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -20621,7 +20621,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/6/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -21133,7 +21133,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/17/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -21386,7 +21386,7 @@
 	
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/10/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -21866,7 +21866,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/18/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -22917,7 +22917,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/16/18</marc:subfield>
 		<marc:subfield code="d">OF</marc:subfield>
 	</marc:datafield>
@@ -23402,8 +23402,8 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">IC</marc:subfield>
-		<marc:subfield code="b">University of Pennsylvania</marc:subfield>
-		<marc:subfield code="c">6/29/18</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
+		<marc:subfield code="b">6/29/18</marc:subfield>
 		<marc:subfield code="d">SH</marc:subfield>
 	</marc:datafield>
 </marc:record>
@@ -23638,7 +23638,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/11/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -26667,8 +26667,8 @@
 		<marc:subfield code="s">9555</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
-		<marc:subfield code="a">f</marc:subfield>
-		<marc:subfield code="b">2000/07/11</marc:subfield>
+		<marc:subfield code="a">F</marc:subfield>
+		<marc:subfield code="b">11/7/00</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="989"> 
         <marc:subfield code="2">Friend</marc:subfield>
@@ -27556,7 +27556,7 @@
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">IC</marc:subfield>
-		<marc:subfield code="b">7/30/18</marc:subfield>
+		h
 		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">OF</marc:subfield>
 	</marc:datafield>
@@ -28022,7 +28022,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/31/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -29529,7 +29529,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/19/18</marc:subfield>
 		<marc:subfield code="d">AS</marc:subfield>
 	</marc:datafield>
@@ -32737,7 +32737,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/30/18</marc:subfield>
 		<marc:subfield code="d">DPL</marc:subfield>
 	</marc:datafield>
