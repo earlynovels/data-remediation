@@ -7857,7 +7857,7 @@
 		<marc:subfield code="a">Errata</marc:subfield>
 		<marc:subfield code="b">Errata.</marc:subfield>
 		<marc:subfield code="c">Back</marc:subfield>
-		<marc:subfield code="c">List of errors and the page numbers they occur in.</marc:subfield>
+		<marc:subfield code="x">List of errors and the page numbers they occur in.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="590">
 		<marc:subfield code="a">Copy 2 imperfect: frontispiece wanting.</marc:subfield>
@@ -9356,7 +9356,7 @@
         <marc:subfield code="a">Poem</marc:subfield>
         <marc:subfield code="b">Song, from the French</marc:subfield>
         <marc:subfield code="c">Middle</marc:subfield>
-        <marc:subfield code="c">Transcription: "Ah! say, the fair Miranda cried,---Say where the abode of love is found:---Pervading nature, I replied,---His influence spreads the world around.; Location: p. 169-170</marc:subfield>
+        <marc:subfield code="x">Transcription: "Ah! say, the fair Miranda cried,---Say where the abode of love is found:---Pervading nature, I replied,---His influence spreads the world around.; Location: p. 169-170.</marc:subfield>
     </marc:datafield>	
     <marc:datafield ind1=" " ind2=" " tag="520">
         <marc:subfield code="a">Footnotes</marc:subfield>
@@ -10361,7 +10361,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="592">
 		<marc:subfield code="a">Epistolary</marc:subfield>
-		<marc:subfield code="a">First-Person</marc:subfield>
+		<marc:subfield code="a">First-person</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
 		<marc:subfield code="a">Ink</marc:subfield>
@@ -13060,7 +13060,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="592">
 		<marc:subfield code="a">Epistolary</marc:subfield>
-		<marc:subfield code="a">First-Person</marc:subfield>
+		<marc:subfield code="a">First-person</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="594">
 		<marc:subfield code="a">June Frazier the gift of her cousin Anne Dalton</marc:subfield>
@@ -20991,7 +20991,7 @@
 
 	<marc:datafield ind1=" " ind2=" " tag="592">
 		<marc:subfield code="a">Third-person</marc:subfield>
-		<marc:subfield code="a">Letters</marc:subfield>
+		<marc:subfield code="a">Epistolary/marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield ind1=" " ind2=" " tag="595">
@@ -23538,7 +23538,7 @@
 	</marc:datafield>
 
 	<marc:datafield ind1=" " ind2=" " tag="592">
-		<marc:subfield code="a">Dramatic diologue</marc:subfield>
+		<marc:subfield code="a">Dramatic dialogue</marc:subfield>
 		<marc:subfield code="b">Third-person</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="596">
