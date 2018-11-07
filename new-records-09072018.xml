@@ -506,7 +506,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By G---e B----r</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -2120,7 +2120,7 @@
 		<marc:subfield code="2">W.L.</marc:subfield>
 		<marc:subfield code="3">Preface</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 		<marc:subfield code="a">Author (paratext)</marc:subfield>
@@ -2128,7 +2128,7 @@
 		<marc:subfield code="2">W.L.</marc:subfield>
 		<marc:subfield code="3">Preface</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 		<marc:subfield code="a">Author (text)</marc:subfield>
@@ -2456,7 +2456,7 @@
         <marc:subfield code="a">Author (paratext)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">John Bunyan's Advertisement to the reader.</marc:subfield>
-        <marc:subfield code="3">To the reader</marc:subfield>
+        <marc:subfield code="3">To the Reader</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
         <marc:subfield code="6">Male</marc:subfield>
     </marc:datafield> 
@@ -2464,7 +2464,7 @@
         <marc:subfield code="a">Author (paratext)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Mr. Bunyan's Address to the reader.</marc:subfield>
-        <marc:subfield code="3">To the reader</marc:subfield>
+        <marc:subfield code="3">To the Reader</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
         <marc:subfield code="6">Male</marc:subfield>
     </marc:datafield> 
@@ -2474,7 +2474,7 @@
         <marc:subfield code="2">The Editor.</marc:subfield>
         <marc:subfield code="3">Preface</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
     </marc:datafield> 
         <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Editor (text)</marc:subfield>
@@ -2482,7 +2482,7 @@
         <marc:subfield code="2">A new edition to which are subjoined notes, by Mr. Samuel Adams.</marc:subfield>
         <marc:subfield code="3">Preface</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
         <marc:subfield code="a">Samuel Adams</marc:subfield>
@@ -2920,7 +2920,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By Phileleutherus Devoniensis.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -3178,7 +3178,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By Ann Yearsley.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
 		<marc:subfield code="6">Female</marc:subfield>
 	</marc:datafield>
@@ -3513,7 +3513,7 @@
         <marc:subfield code="6">Male</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="599">
-        <marc:subfield code="a">Translator(text)</marc:subfield>
+        <marc:subfield code="a">Translator (text)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">By Joseph Collyer</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
@@ -3837,7 +3837,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">Translated from the French of Bernardin Saint-Pierre.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -3845,7 +3845,7 @@
 	    <marc:subfield code="a">Translator (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">Translated from the French of Bernardin Saint-Pierre. By Helen Maria Williams</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
 		<marc:subfield code="6">Female</marc:subfield>
 	</marc:datafield>
@@ -5063,7 +5063,6 @@
     </marc:datafield> 
     <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Author (paratext)</marc:subfield>
-        <marc:subfield code="b">True Briton Office</marc:subfield>
         <marc:subfield code="2">True Briton Office, No. 5, Catharine-Street, Strand, February 12, 1795</marc:subfield>
         <marc:subfield code="3">Advertisement</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
@@ -5238,7 +5237,7 @@
 		<marc:subfield code="2">The Author</marc:subfield>
 		<marc:subfield code="3">Dedication</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 		<marc:subfield code="a">Author (paratext)</marc:subfield>
@@ -5246,7 +5245,7 @@
 		<marc:subfield code="2">The Author</marc:subfield>
 		<marc:subfield code="3">Dedication</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="650" ind1=" " ind2="4">
 		<marc:subfield code="a">CHR 1795</marc:subfield>
@@ -6366,7 +6365,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By Hugh Kelly, esq.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -6902,7 +6901,7 @@
         <marc:subfield code="a">Author (text)</marc:subfield>
         <marc:subfield code="b">Initials</marc:subfield>
         <marc:subfield code="2">By E.M.F.</marc:subfield>
-        <marc:subfield code="3">Title page</marc:subfield>
+        <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
         <marc:subfield code="6">Female</marc:subfield>
     </marc:datafield>
@@ -7163,7 +7162,7 @@
         <marc:subfield code="2">The reader will remember, that the Editor is accountable only for scattering chapters, and fragments of chapters; the curate must answer for the rest.</marc:subfield>
         <marc:subfield code="3">Footnote</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
     </marc:datafield> 
     <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Author (text)</marc:subfield>
@@ -7171,7 +7170,7 @@
         <marc:subfield code="2">Though the Curate could not remember having shown this chapter to any body, I strongly suspect that these political observations are the work of a later pen than the rest of this performance.</marc:subfield>
         <marc:subfield code="3">Footnote</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
     </marc:datafield>
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 		<marc:subfield code="a">Author (paratext)</marc:subfield>
@@ -8139,7 +8138,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By Charlotte Smith</marc:subfield>
-		<marc:subfield code="3">Full title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
 		<marc:subfield code="6">Female</marc:subfield>
 	</marc:datafield>
@@ -8341,7 +8340,7 @@
         <marc:subfield code="2">Your Royal Highness's Most Obedient, Most Humble Servant, The Author</marc:subfield>
         <marc:subfield code="3">Dedication</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
         <marc:subfield code="v">v.1</marc:subfield>
     </marc:datafield> 
     <marc:datafield tag="599" ind1=" " ind2=" ">
@@ -8350,7 +8349,7 @@
         <marc:subfield code="2">Your Royal Highness's Most Obedient, Most Humble Servant, The Author</marc:subfield>
         <marc:subfield code="3">Dedication</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
         <marc:subfield code="v">v.1</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2="4" tag="650">
@@ -8806,7 +8805,7 @@
     </marc:datafield>
 
     <marc:datafield tag="599" ind1=" " ind2=" ">
-        <marc:subfield code="a">Author(Illustration)</marc:subfield>
+        <marc:subfield code="a">Author (illustration)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Transcription: "Frontispiece the genius of taste introduced by Minerva to the novelist."; Signed: "Shillito Leeds"</marc:subfield>
         <marc:subfield code="3">Frontispiece</marc:subfield>
@@ -9828,7 +9827,7 @@
 	    <marc:subfield code="a">Translator (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">Attempted from the German of Mr. Klopstock, by Joseph Collyer.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -12601,7 +12600,7 @@
     </marc:datafield>
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 		<marc:subfield code="a">Author (paratext)</marc:subfield>
-		<marc:subfield code="b">Generic/descriptive</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">The translator's address to his thinking readers.</marc:subfield>
 		<marc:subfield code="3">To the Reader</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
@@ -14926,7 +14925,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By George Walker, author of the House of Tynian, &amp;c.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -18483,7 +18482,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By Donald Campbell, of Barbeck, Esq.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -18739,7 +18738,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By George Walker</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -18932,7 +18931,7 @@
 		<marc:subfield code="2">Compiled from the journal of a decesased friend</marc:subfield>
 		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
 	   <marc:subfield code="a">Editor (text)</marc:subfield>
@@ -19643,7 +19642,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">With a life of the author, written by himself.</marc:subfield>
-		<marc:subfield code="3">TitlePage</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
@@ -21271,7 +21270,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
 		<marc:subfield code="a">Author (text)</marc:subfield>
-		<marc:subfield code="b">Reference to other texts</marc:subfield>
+		<marc:subfield code="b">Reference to other works</marc:subfield>
 		<marc:subfield code="2">By Benjamin Keach, Author of a book, called War with the Devil, and Sion in Distress.</marc:subfield>
 		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
@@ -21797,7 +21796,7 @@
 		<marc:subfield code="2">Too happy shall I be, if enabled, in a second address, to assure you, that I remain most sincerely your friend, The compiler.</marc:subfield>
 		<marc:subfield code="3">Dedication</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2="7" tag="655">
 		<marc:subfield code="a">Epistolary fiction</marc:subfield>
@@ -22827,7 +22826,7 @@
 		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">Preface. By the French translator.</marc:subfield>
 		<marc:subfield code="3">Preface</marc:subfield>
-		<marc:subfield code="5">Unknown</marc:subfield>
+		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
@@ -22835,7 +22834,7 @@
 		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">Preface. By the French translator.</marc:subfield>
 		<marc:subfield code="3">Preface</marc:subfield>
-		<marc:subfield code="5">Unknown</marc:subfield>
+		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
@@ -22843,7 +22842,7 @@
 		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">Advertisement by the French editor.</marc:subfield>
 		<marc:subfield code="3">Advertisement</marc:subfield>
-		<marc:subfield code="5">Unknown</marc:subfield>
+		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
@@ -22851,7 +22850,7 @@
 		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">Advertisement by the French editor.</marc:subfield>
 		<marc:subfield code="3">Advertisement</marc:subfield>
-		<marc:subfield code="5">Unknown</marc:subfield>
+		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2="4" tag="650">
@@ -23320,7 +23319,7 @@
     </marc:datafield> 	
     <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Reference to Other Works</marc:subfield>
+        <marc:subfield code="b">Reference to other works</marc:subfield>
         <marc:subfield code="2">Author of Poems, Angelina, The Sicilian Lover, The Widow, &amp;c. &amp;c. &amp;c.</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
@@ -23985,7 +23984,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By Charlotte Smith</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
 		<marc:subfield code="6">Female</marc:subfield>
 	</marc:datafield>
@@ -24444,7 +24443,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Reference to other works</marc:subfield>
 		<marc:subfield code="2">By the authoress of Evelina and Cecilia.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
 		<marc:subfield code="6">Female</marc:subfield>
 	</marc:datafield>
@@ -25016,7 +25015,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Reference to other works</marc:subfield>
 		<marc:subfield code="2">By the author of Man as he is.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -25322,7 +25321,7 @@
         <marc:subfield code="2">Regardless of my fate as an Editor, I solicit protection and indulgence only for Charlotte.</marc:subfield>
         <marc:subfield code="3">Preface</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
     </marc:datafield> 
 	<marc:datafield ind1=" " ind2=" " tag="599">
 		<marc:subfield code="a">Editor (text)</marc:subfield>
@@ -25330,7 +25329,7 @@
 		<marc:subfield code="2">Regardless of my fate as an Editor, I solicit protection and indulgence only for Charlotte.</marc:subfield>
 		<marc:subfield code="3">Preface</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2="0" tag="600">
 		<marc:subfield code="a">Goethe, Johann Wolfgang von,</marc:subfield>
@@ -27254,7 +27253,7 @@
 		<marc:subfield code="2">By the author of Plain Sense.</marc:subfield>
 		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>	
 	<marc:datafield ind1=" " ind2="4" tag="650">
 		<marc:subfield code="a">CHR 1797</marc:subfield>
@@ -27683,7 +27682,7 @@
         <marc:subfield code="a">Author (paratext)</marc:subfield>
         <marc:subfield code="b">Initials</marc:subfield>
         <marc:subfield code="2">C. B. B.</marc:subfield>
-        <marc:subfield code="3">Advertisment</marc:subfield>
+        <marc:subfield code="3">Advertisement</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
         <marc:subfield code="6">Male</marc:subfield>
     </marc:datafield>
@@ -28714,7 +28713,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">Written by Sir Samuel Egerton Leigh</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -30070,7 +30069,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">Dr. C.F. Bahrdt</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -30477,7 +30476,7 @@
         <marc:subfield code="2">I am, your royal highness's most obedient servant, The editor.</marc:subfield>
         <marc:subfield code="3">Dedication</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
     </marc:datafield> 
 	<marc:datafield ind1=" " ind2=" " tag="599">
 		<marc:subfield code="a">Editor (text)</marc:subfield>
@@ -30485,7 +30484,7 @@
 		<marc:subfield code="2">I am, your royal highness's most obedient servant, The editor.</marc:subfield>
 		<marc:subfield code="3">Dedication</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
 		<marc:subfield code="a">Author (paratext)</marc:subfield>
@@ -30493,7 +30492,7 @@
 		<marc:subfield code="2">The editor to the reader.</marc:subfield>
 		<marc:subfield code="3">To the Reader</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2="4" tag="650">
 		<marc:subfield code="a">CHR 1797</marc:subfield>
@@ -31275,7 +31274,7 @@
 		<marc:subfield code="2">John Bull, American publisher</marc:subfield>
 		<marc:subfield code="3">Preface</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
 		<marc:subfield code="a">Author (paratext)</marc:subfield>
@@ -31938,7 +31937,7 @@
 		<marc:subfield code="2">By the author of Deloraine.</marc:subfield>
 		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2="7" tag="655">
 		<marc:subfield code="a">Booksellers' advertisements</marc:subfield>
