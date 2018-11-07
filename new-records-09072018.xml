@@ -6573,7 +6573,7 @@
 
 	<marc:datafield tag="250" ind1=" " ind2=" ">
 		<marc:subfield code="a">The second edition.</marc:subfield>
-		<marc:subfield code="b">Second edition.</marc:subfield>
+		<marc:subfield code="b">Second edition</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield tag="260" ind1=" " ind2=" ">
@@ -20937,7 +20937,7 @@
 	</marc:datafield>
 
 	<marc:datafield ind1=" " ind2=" " tag="250">
-		<marc:subfield code="a">Second edition.</marc:subfield>
+		<marc:subfield code="a">Second edition</marc:subfield>
 		<marc:subfield code="b">Second edition</marc:subfield>
 	</marc:datafield>
 
