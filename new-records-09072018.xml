@@ -4665,7 +4665,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="592">
 		<marc:subfield code="a">Third-person</marc:subfield>
 		<marc:subfield code="c">Poems</marc:subfield>
-		<marc:subfield code="c">Songs</marc:subfield>
+		<marc:subfield code="a">Sheet music</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2="0" tag="650">
 		<marc:subfield code="a">English wit and humor</marc:subfield>
@@ -14710,7 +14710,7 @@
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Pencil</marc:subfield>
-        <marc:subfield code="b">Reader Markings</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="v">v.2</marc:subfield>
         <marc:subfield code="x">Transcription, on p.279: "her" replaces the "him" in "himself"</marc:subfield>
 	</marc:datafield>
@@ -15555,7 +15555,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Pencil</marc:subfield>
-        <marc:subfield code="b">Reader Markings</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="v">v.4</marc:subfield>
         <marc:subfield code="x">Transcription, p. 163: Crossed out "Louisa" and replaced with "Eloise"</marc:subfield>
 	</marc:datafield>
@@ -21787,7 +21787,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
 		<marc:subfield code="a">Pencil</marc:subfield>
-		<marc:subfield code="b">WordS</marc:subfield>
+		<marc:subfield code="b">Words</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">On front paste-down endpaper. Reads: "what you Please", looks like child's script.</marc:subfield>
 	</marc:datafield>
@@ -26986,12 +26986,12 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Ink</marc:subfield>
-        <marc:subfield code="b">Reader Markigs</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">Scribblings on pages 3, 180, 181, 198.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Ink</marc:subfield>
-        <marc:subfield code="b">Reader Markigs</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">Scribblings and writings on verso of the back free endpaper, back free endpaper, and back paste-down endpaper.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
@@ -30772,22 +30772,22 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Ink</marc:subfield>
-        <marc:subfield code="b">Reader Markings</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">Transcription of marking on front free endpaper: March the 25th 1821</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Pencil</marc:subfield>
-        <marc:subfield code="b">Reader Markings</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">Transcription on after endpaper: George [Gerrere?] his book after personal return Remember well and bear in mind a trusty friend friend is hard to find When you get one guest and there never henge him for a new.</marc:subfield>
 	</marc:datafield>	
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Pencil</marc:subfield>
-        <marc:subfield code="b">Reader Markings</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">Transcription on title page, some words washed out: [illegible]</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Pencil</marc:subfield>
-        <marc:subfield code="b">Reader Markings</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">Transcription of writing on the recto of first page: [illegible]</marc:subfield>
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
