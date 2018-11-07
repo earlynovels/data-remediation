@@ -164,7 +164,7 @@
         <marc:subfield code="x">Transcription of the footnote on p.34: "This story, I have been assured, is fact - and that the melancholy circumstances here related, happened to a young woman in a situation of life somewhat superior to that of the person to whom they are given Transcription of the footnote on p.93: "It should be remembere that such was the mode of education in France among the inferior ranks, for middle rank there was none, that it was hardly possible such men could be entrusted with the legislative power, and not abuse it. They had never been taught what was really libery, but to such men, power and plunder must have been desirable." Transcription of the footnote on p.115: "St Hubert is the titular saint of hunters. In France it was usual for the noblesse on that day in large parties in the great chateaux, and to remain a fortnight, or longer; passing the morning in the chace, and the evenings in cards and dancing." Transcription of the footnote on p.232: "If this was self-evident in 1793, it is much more so now when every day brings accounts of horrors, from which the mind attempts, in vain, to take refuge in incredulity. - 'One sanguinary tide scarce rolled away,--- Another comes in terrible sucession.' - Escaylus."</marc:subfield> 
     </marc:datafield>
     <marc:datafield tag="520" ind1=" " ind2=" ">
-        <marc:subfield code="a">Footnote</marc:subfield>
+        <marc:subfield code="a">Footnotes</marc:subfield>
         <marc:subfield code="c">Middle</marc:subfield>
         <marc:subfield code="v">v.4</marc:subfield>
         <marc:subfield code="x">Transcription of the footnote on p.145-146: "Thomso - It has struck me as remarkable, that the French (I speak of them as they were), who either read English poetry in the original, or translated into their own language, preferred Young and Thomson, to out gayer and lighter poets, which, like their passion for tragedy, seems to contradict the generally received opinion of their national character."</marc:subfield> 
@@ -1587,7 +1587,7 @@
    	    <marc:subfield code="x">Footnotes on pages: 14, 60, 77, 87, 93, 105, 155, 197.</marc:subfield>     
    	   	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-        <marc:subfield code="a">Footnote</marc:subfield>
+        <marc:subfield code="a">Footnotes</marc:subfield>
         <marc:subfield code="c">Middle</marc:subfield>
         <marc:subfield code="v">v.2</marc:subfield>
         <marc:subfield code="x">Footnote on p.60.</marc:subfield>     
@@ -2674,7 +2674,7 @@
         <marc:subfield code="c">T95414</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="520">
-        <marc:subfield code="a">Footnote</marc:subfield>
+        <marc:subfield code="a">Footnotes</marc:subfield>
         <marc:subfield code="c">Middle</marc:subfield>
         <marc:subfield code="x">Transcription of footnote on p. 114: Mary had been taught, besides, to address a short prayer to the Deity, immediately upon waking, to acknowledge his goodness in having defended her from all "perils and dangers of the night," a tribute no grateful mind can neglect to pay.</marc:subfield> 
     </marc:datafield>
@@ -3480,7 +3480,7 @@
         <marc:subfield code="x">Transcription of first sentence: "The public have a right to expect that the painter, who submits his picture to their judgment, should hang it up, and go away in silence."</marc:subfield>        
    	</marc:datafield> 
    	<marc:datafield ind1=" " ind2=" " tag="520">
-        <marc:subfield code="a">Footnote</marc:subfield>
+        <marc:subfield code="a">Footnotes</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="x">Transcription of footnote on p.v: The Messiah was formerly published in three volumes.</marc:subfield>        
    	</marc:datafield>
@@ -7394,7 +7394,7 @@
 		<marc:subfield code="x">First sentence: "At the distance of sixty miles from London, and in a small village, Mrs. Woodfield had chosen the retirement which her circumstances rendered nescessary."</marc:subfield>
 	</marc:datafield>	
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
@@ -9347,7 +9347,7 @@
         <marc:subfield code="x">Transcription of first sentence: "Madam, the favourable opinion expressed by the Duchess of Devonshire, of the little work to which this is a sequel, induced me to solicit permission to dedicate these volumes to your ladyship."; Signed: "Your Ladyship's most obliged and devoted Servant, Charlotte Smith."; Dated: "May 16, 1796"</marc:subfield>
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520">
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="x">Lists dialogue/chapter titles with page number.</marc:subfield>
@@ -9804,7 +9804,7 @@
 		<marc:subfield code="x">Transcription of first sentence: The public have the right to expect that the painter, who submits his picture to their judgment, should hang it up, and go away in silence.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-	    <marc:subfield code="a">Footnote</marc:subfield>
+	    <marc:subfield code="a">Footnotes</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="x">Transcription of footnore: The Messiah was formerly published in three volumes.</marc:subfield>
 	</marc:datafield>
@@ -10097,7 +10097,7 @@
         <marc:subfield code="x">Transcription of first sentence in advertisement: The uncommon encouragement which this selection has received from a discerning public, has naturally excited a grateful Propmptitude in the Publisher's Breast, to render it still more worthy of their Patronage.</marc:subfield>     
    	</marc:datafield>
    	<marc:datafield tag="520" ind1=" " ind2=" ">
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Table of Contents.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
    	</marc:datafield>
@@ -12522,7 +12522,7 @@
         <marc:subfield code="x">Incomplete preface. Begins on page "(v)" and ends on page "(vii)"; First sentence: "(...)Spain, and the readers of these pages will require no farther proofs of the baneful consequences which have originated from his errors."; Last sentence: "The translator has nothing to add, but to apologize for the foreign idoms which may perhaps occur to the discerning eyes of the keen-sighted critic, and hopes that his labor will contribute, at least something to the destruction of fanaticism in this country."; Signed: "P. Will."</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="520" ind1=" " ind2=" ">
-        <marc:subfield code="a">To the reader</marc:subfield>
+        <marc:subfield code="a">To the Reader</marc:subfield>
         <marc:subfield code="b">The translator's address to his thinking readers.</marc:subfield>
         <marc:subfield code="c">Back</marc:subfield>
         <marc:subfield code="v">v.3</marc:subfield>
@@ -12807,12 +12807,12 @@
 		<marc:subfield code="c">W232</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="520" ind1=" " ind2=" ">
-        <marc:subfield code="a">Footnote</marc:subfield>
+        <marc:subfield code="a">Footnotes</marc:subfield>
         <marc:subfield code="c">Middle</marc:subfield>
         <marc:subfield code="x">Transcription of first sentence of footnote on p. 46-47: There are many mountains, the summits of which are rounded into the form of a woman's breast, and bear that name in all languages.</marc:subfield>     
    	</marc:datafield>
    	<marc:datafield tag="520" ind1=" " ind2=" ">
-        <marc:subfield code="a">Footnote</marc:subfield>
+        <marc:subfield code="a">Footnotes</marc:subfield>
         <marc:subfield code="c">Middle</marc:subfield>
         <marc:subfield code="x">Transcription of footnote on p. 53: This trait of sagacity in the black Domingo and his dog, Fidele, very much resembles that of the savage Tewenissa, and his dog Oniah, mentioned by M. de Crevecaur, in his humane Work, entitled, Letters of an American Farmer.</marc:subfield>     
    	</marc:datafield>
@@ -13269,7 +13269,7 @@
 		<marc:subfield code="c">1795: 39</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-	    <marc:subfield code="a">To the reader</marc:subfield>
+	    <marc:subfield code="a">To the Reader</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="x">Transcription: The manner in which this fragment is mentioned in the Monthly Review, for September, 1794, page 21, as it has been an inducement for offering this translation to the public, will also in some degree, apologize for its present title; which it is apprehended, may appear quaint and insignificant.</marc:subfield>
 	</marc:datafield>
@@ -14619,7 +14619,7 @@
         <marc:subfield code="x">Transcription of first sentence of Preface: "Methinks, Oh! vain ill judging book,--- I see thee cast a wishful look,--- Where reputations won and lost are--- In famous row called Paternoster.;" Signed: "M. G. L."</marc:subfield>     
    	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Table of the Poetry.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.1</marc:subfield>    
@@ -15105,7 +15105,7 @@
 		<marc:subfield code="c">p. 216.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="520" ind1=" " ind2=" ">
-		<marc:subfield code="a">Subscribers' List</marc:subfield>
+		<marc:subfield code="a">Subscribers' list</marc:subfield>
 		<marc:subfield code="b">List of Subscribers.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
@@ -16070,31 +16070,31 @@
         <marc:subfield code="x">Transcription: "The author of this little work cannot, in the anxious moment of committing it to its fate, refuse herself the indulgence of expressing some portion of the gratitude with which she is filled, by the highly favorable reception given to her two former attempts in this species of composition; nor forbear pouring forth her thanks to the many friends whose kind zeal has forwarded the present undertaking:----from amongst whom she knows not how to resist selecting and gratifying herself by naming the Hon. Mrs. Boscawen, Mrs. Crewe, and Mrs. Locke."</marc:subfield>     
    	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the First Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.1</marc:subfield>    
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the Second Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.2</marc:subfield>    
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the Third Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.3</marc:subfield>    
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the Fourth Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.4</marc:subfield>    
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the Fifth Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.5</marc:subfield>    
@@ -17112,7 +17112,7 @@
 		<marc:subfield code="c">p.4</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-		<marc:subfield code="a">Poems</marc:subfield>
+		<marc:subfield code="a">Poem</marc:subfield>
 		<marc:subfield code="b">Fragment.</marc:subfield>
 		<marc:subfield code="c">Middle</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
@@ -18228,7 +18228,7 @@
         <marc:subfield code="x">Transcription of first sentence: The events related in the following pages, naturally became a frequent subject of conversation with my children and my friends.</marc:subfield>     
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>    
    	</marc:datafield>
@@ -20532,7 +20532,7 @@
 		<marc:subfield code="c">p.180</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Footenotes</marc:subfield>
+		<marc:subfield code="a">Footnotes</marc:subfield>
 		<marc:subfield code="c">Middle</marc:subfield>
 		<marc:subfield code="v">v.4</marc:subfield>
 		<marc:subfield code="x">Located on pg. 200.</marc:subfield>
@@ -21740,14 +21740,14 @@
 		<marc:subfield code="x">Begins: "Indeed, Madam, you are the very identical person this dedication was designed for; there is no mistake whatever, believe me, which, as your diffidence equals your beauty, I see is almost your persuasion." Signed: "Too happy shall I be, if enabled, in a second address, to assure you, that I remain most sincerely your friend, The compiler." Dated: "Nov. 1797"</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents of the second volume.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Misprint, v.2 contents bound in v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents of the second volume.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
@@ -23728,7 +23728,7 @@
 		<marc:subfield code="c">W26761</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Back</marc:subfield>
 		<marc:subfield code="x">Descriptions of each chapter, no page numbers.</marc:subfield>
@@ -25738,7 +25738,7 @@
         <marc:subfield code="v">v.1</marc:subfield>   
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">The contents of the second volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.2</marc:subfield>   
@@ -27664,7 +27664,7 @@
 		<marc:subfield code="c">1496</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Advertisment</marc:subfield>
+        <marc:subfield code="a">Advertisement</marc:subfield>
         <marc:subfield code="b">Advertisement.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="x">Transcription of first sentence: "The following work is delivered to the world as the first of a series of performances, which the favorable reception of this will induce the writer to publish"; Signed: "C. B. B."; Dated: "September 3, 1798."</marc:subfield>
@@ -29152,14 +29152,14 @@
 		<marc:subfield code="x">Transcription of first sentence: "The life of an author is generally an object of the public attention, in proportion to the celebrity of his writings."</marc:subfield>     
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents of Vol. I.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Table of Contents of each book within the volume plus a summary and the page number.</marc:subfield>     
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">The binder is directed to arrange the engravings as follows:</marc:subfield>
 		<marc:subfield code="c">Back</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
@@ -29172,7 +29172,7 @@
 		<marc:subfield code="x">Footnotes on pages: 4, 8, 9, 11, 12, 13, 14, 15, 18, 19, 20, 23-37.</marc:subfield>     
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents of Vol. II.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
@@ -31235,31 +31235,31 @@
 		<marc:subfield code="x">Begins: "The author of this little work cannot, in the anxious moment of combining it to its fate, refuse herself the indulgence of expressing some portion of the gratitude with which she is skilled, by the highly favorable reception given to her two former attempts in this species of composition; nor forbear pouring fourth her thanks to the many friends whose kind zeal has forwarded the present undertaking:--from amongst whom she knows not how to resist selecting and gratifying herself by naming the Hon. Mrs. Boscawen, Mrs. Crewe, and Mrs. Locke."</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.3</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.4</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.5</marc:subfield>
@@ -32852,13 +32852,13 @@
 	</marc:datafield>
 
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the First Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.1</marc:subfield>    
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the Second Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.2</marc:subfield>    
