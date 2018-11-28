@@ -164,7 +164,7 @@
         <marc:subfield code="x">Transcription of the footnote on p.34: "This story, I have been assured, is fact - and that the melancholy circumstances here related, happened to a young woman in a situation of life somewhat superior to that of the person to whom they are given Transcription of the footnote on p.93: "It should be remembere that such was the mode of education in France among the inferior ranks, for middle rank there was none, that it was hardly possible such men could be entrusted with the legislative power, and not abuse it. They had never been taught what was really libery, but to such men, power and plunder must have been desirable." Transcription of the footnote on p.115: "St Hubert is the titular saint of hunters. In France it was usual for the noblesse on that day in large parties in the great chateaux, and to remain a fortnight, or longer; passing the morning in the chace, and the evenings in cards and dancing." Transcription of the footnote on p.232: "If this was self-evident in 1793, it is much more so now when every day brings accounts of horrors, from which the mind attempts, in vain, to take refuge in incredulity. - 'One sanguinary tide scarce rolled away,--- Another comes in terrible sucession.' - Escaylus."</marc:subfield> 
     </marc:datafield>
     <marc:datafield tag="520" ind1=" " ind2=" ">
-        <marc:subfield code="a">Footnote</marc:subfield>
+        <marc:subfield code="a">Footnotes</marc:subfield>
         <marc:subfield code="c">Middle</marc:subfield>
         <marc:subfield code="v">v.4</marc:subfield>
         <marc:subfield code="x">Transcription of the footnote on p.145-146: "Thomso - It has struck me as remarkable, that the French (I speak of them as they were), who either read English poetry in the original, or translated into their own language, preferred Young and Thomson, to out gayer and lighter poets, which, like their passion for tragedy, seems to contradict the generally received opinion of their national character."</marc:subfield> 
@@ -286,7 +286,7 @@
     <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Henry Studdy</marc:subfield>
         <marc:subfield code="4">Author (bookplate)</marc:subfield>
-        <marc:subfield code="5">Unathorized</marc:subfield>
+        <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
   	<marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Cadell, Thomas</marc:subfield>
@@ -506,7 +506,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By G---e B----r</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -663,8 +663,8 @@
         <marc:subfield code="v">v.2</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="246" ind1="0" ind2="7">
-        <marc:subfield code="a">Montalbert.(verso)</marc:subfield>
-        <marc:subfield code="a">Montalbert.(recto)</marc:subfield>
+        <marc:subfield code="a">Montalbert. (verso)</marc:subfield>
+        <marc:subfield code="a">Montalbert. (recto)</marc:subfield>
         <marc:subfield code="v">v.1</marc:subfield>
         <marc:subfield code="v">v.2</marc:subfield>
     </marc:datafield>
@@ -865,7 +865,7 @@
     <marc:datafield tag="999" ind1=" " ind2=" ">
         <marc:subfield code="a">IC</marc:subfield>
         <marc:subfield code="b">6/7/18</marc:subfield>
-        <marc:subfield code="c">University of Pennslyvania</marc:subfield>
+        <marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">OF</marc:subfield>
     </marc:datafield>
 </marc:record>
@@ -1389,7 +1389,7 @@
     <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Robinson, John</marc:subfield>
 		<marc:subfield code="d">1752-1813</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield tag="700" ind1=" " ind2=" ">
@@ -1587,7 +1587,7 @@
    	    <marc:subfield code="x">Footnotes on pages: 14, 60, 77, 87, 93, 105, 155, 197.</marc:subfield>     
    	   	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-        <marc:subfield code="a">Footnote</marc:subfield>
+        <marc:subfield code="a">Footnotes</marc:subfield>
         <marc:subfield code="c">Middle</marc:subfield>
         <marc:subfield code="v">v.2</marc:subfield>
         <marc:subfield code="x">Footnote on p.60.</marc:subfield>     
@@ -1603,10 +1603,9 @@
         <marc:subfield code="a">Epistolary</marc:subfield>
         <marc:subfield code="b">First-person</marc:subfield>
     </marc:datafield>
-    <marc:datafield ind1=" " ind2=" " tag="592">
+    <marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Ink</marc:subfield>
         <marc:subfield code="b">Reader markings</marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
         <marc:subfield code="x">On p. 5, reader crossed out the word "rate" and replaced with "Tear"; p. 6, reader inserted the word "wholly" and crossed out "only"; p. 12, reader crossed out "fortune" and replaced with "Fortescue"; p. 12, replaced "discussion" with "depression"; p. 16, inserted "this" between "of" and "romantic"; p. 46, replaced "force" with "frighten"</marc:subfield>
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
@@ -1651,12 +1650,12 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Lane, William</marc:subfield>
         <marc:subfield code="d">1745-1814</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 	    <marc:datafield ind1=" " ind2=" " tag="710">
         <marc:subfield code="a">Minerva Press</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 		<marc:datafield ind1="2" ind2=" " tag="710">
@@ -1711,7 +1710,7 @@
     <marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">IC</marc:subfield>
 		<marc:subfield code="b">6/13/18</marc:subfield>
-		<marc:subfield code="c">University of Pennslyvania</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">DPL</marc:subfield>
 	</marc:datafield>
 </marc:record>
@@ -1872,8 +1871,8 @@
         <marc:subfield code="e">Translated from the French of M. Ramsey.</marc:subfield>
 	</marc:datafield>  
 	<marc:datafield ind1=" " ind2=" " tag="599">
-        <marc:subfield code="a">Author(text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="a">Author (text)</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Translated from the French of M. Ramsey.</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -1897,7 +1896,7 @@
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Author (paratext)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Letter From M. Freret (Member of the Academy of Inscriptions at Paris) to the Author, concerning the chronology of his work.</marc:subfield>
         <marc:subfield code="3">Letter</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -2121,7 +2120,7 @@
 		<marc:subfield code="2">W.L.</marc:subfield>
 		<marc:subfield code="3">Preface</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 		<marc:subfield code="a">Author (paratext)</marc:subfield>
@@ -2129,7 +2128,7 @@
 		<marc:subfield code="2">W.L.</marc:subfield>
 		<marc:subfield code="3">Preface</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 		<marc:subfield code="a">Author (text)</marc:subfield>
@@ -2457,7 +2456,7 @@
         <marc:subfield code="a">Author (paratext)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">John Bunyan's Advertisement to the reader.</marc:subfield>
-        <marc:subfield code="3">To the reader</marc:subfield>
+        <marc:subfield code="3">To the Reader</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
         <marc:subfield code="6">Male</marc:subfield>
     </marc:datafield> 
@@ -2465,7 +2464,7 @@
         <marc:subfield code="a">Author (paratext)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Mr. Bunyan's Address to the reader.</marc:subfield>
-        <marc:subfield code="3">To the reader</marc:subfield>
+        <marc:subfield code="3">To the Reader</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
         <marc:subfield code="6">Male</marc:subfield>
     </marc:datafield> 
@@ -2475,15 +2474,15 @@
         <marc:subfield code="2">The Editor.</marc:subfield>
         <marc:subfield code="3">Preface</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
     </marc:datafield> 
         <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Editor (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">A new edition to which are subjoined notes, by Mr. Samuel Adams.</marc:subfield>
         <marc:subfield code="3">Preface</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="700" ind1="1" ind2=" ">
         <marc:subfield code="a">Samuel Adams</marc:subfield>
@@ -2565,7 +2564,7 @@
     <marc:datafield tag="999" ind1=" " ind2=" ">
         <marc:subfield code="a">IC</marc:subfield>
         <marc:subfield code="b">6/6/18</marc:subfield>
-        <marc:subfield code="c">University of Pennslyvania</marc:subfield>
+        <marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">OF</marc:subfield>
     </marc:datafield>
 </marc:record><marc:record>
@@ -2675,7 +2674,7 @@
         <marc:subfield code="c">T95414</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="520">
-        <marc:subfield code="a">Footnote</marc:subfield>
+        <marc:subfield code="a">Footnotes</marc:subfield>
         <marc:subfield code="c">Middle</marc:subfield>
         <marc:subfield code="x">Transcription of footnote on p. 114: Mary had been taught, besides, to address a short prayer to the Deity, immediately upon waking, to acknowledge his goodness in having defended her from all "perils and dangers of the night," a tribute no grateful mind can neglect to pay.</marc:subfield> 
     </marc:datafield>
@@ -2741,8 +2740,8 @@
     </marc:datafield>
     <marc:datafield ind1="1" ind2=" " tag="700">
         <marc:subfield code="a">Blake, William,</marc:subfield>
-        <marc:subfield code="d">1757-1827,</marc:subfield>
-        <marc:subfield code="e">ill.</marc:subfield>
+        <marc:subfield code="d">1757-1827</marc:subfield>
+        <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Mary Ann Williams</marc:subfield>
@@ -2921,7 +2920,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By Phileleutherus Devoniensis.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -3179,7 +3178,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By Ann Yearsley.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
 		<marc:subfield code="6">Female</marc:subfield>
 	</marc:datafield>
@@ -3201,13 +3200,13 @@
 
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Yearsley, Ann</marc:subfield>
-		<marc:subfield code="b">1753-1806</marc:subfield>
+		<marc:subfield code="d">1753-1806</marc:subfield>
 		<marc:subfield code="4">Author (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Yearsley, Ann</marc:subfield>
-		<marc:subfield code="b">1753-1806</marc:subfield>
+		<marc:subfield code="d">1753-1806</marc:subfield>
 		<marc:subfield code="4">Author (paratext)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
@@ -3481,7 +3480,7 @@
         <marc:subfield code="x">Transcription of first sentence: "The public have a right to expect that the painter, who submits his picture to their judgment, should hang it up, and go away in silence."</marc:subfield>        
    	</marc:datafield> 
    	<marc:datafield ind1=" " ind2=" " tag="520">
-        <marc:subfield code="a">Footnote</marc:subfield>
+        <marc:subfield code="a">Footnotes</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="x">Transcription of footnote on p.v: The Messiah was formerly published in three volumes.</marc:subfield>        
    	</marc:datafield>
@@ -3506,7 +3505,7 @@
         <marc:subfield code="e">Attempted from the German of Mr. Klopstock, by Joseph Collyer.</marc:subfield>
 	</marc:datafield>  
 	<marc:datafield ind1=" " ind2=" " tag="599">
-        <marc:subfield code="a">Author(text)</marc:subfield>
+        <marc:subfield code="a">Author (text)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Attempted from the German of Mr. Klopstock</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
@@ -3514,7 +3513,7 @@
         <marc:subfield code="6">Male</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="599">
-        <marc:subfield code="a">Translator(text)</marc:subfield>
+        <marc:subfield code="a">Translator (text)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">By Joseph Collyer</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
@@ -3536,12 +3535,12 @@
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Collyer, Mary,</marc:subfield>
 		<marc:subfield code="d">d. 1763.</marc:subfield>
-		<marc:subfield code="e">tr.</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Collyer, Joseph,</marc:subfield>
 		<marc:subfield code="d">d.1776,</marc:subfield>
-		<marc:subfield code="e">tr.</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Klopstock, Friedrich Gottlieb</marc:subfield>
@@ -3838,7 +3837,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">Translated from the French of Bernardin Saint-Pierre.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -3846,7 +3845,7 @@
 	    <marc:subfield code="a">Translator (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">Translated from the French of Bernardin Saint-Pierre. By Helen Maria Williams</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
 		<marc:subfield code="6">Female</marc:subfield>
 	</marc:datafield>
@@ -3887,19 +3886,19 @@
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 	    <marc:subfield code="a">Williams, Helen Maria</marc:subfield>
-		<marc:subfield code="b">1762-1827‏</marc:subfield>
+		<marc:subfield code="d">1762-1827‏</marc:subfield>
 		<marc:subfield code="4">Translator (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 	    <marc:subfield code="a">Williams, Helen Maria</marc:subfield>
-		<marc:subfield code="b">1762-1827‏</marc:subfield>
+		<marc:subfield code="d">1762-1827‏</marc:subfield>
 		<marc:subfield code="4">Author (paratext)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Saint-Pierre, Bernardin de</marc:subfield>
-		<marc:subfield code="b">1737-1814</marc:subfield>
+		<marc:subfield code="d">1737-1814</marc:subfield>
 		<marc:subfield code="4">Author (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
@@ -3911,7 +3910,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Lingée, Charles-Louis</marc:subfield>
-		<marc:subfield code="b">1748-1819</marc:subfield>
+		<marc:subfield code="d">1748-1819</marc:subfield>
 		<marc:subfield code="4">Author (illustration)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
@@ -3940,12 +3939,12 @@
     <marc:datafield ind1="1" ind2=" " tag="700">
         <marc:subfield code="a">Williams, Helen Maria,</marc:subfield>
         <marc:subfield code="d">1762-1827,</marc:subfield>
-        <marc:subfield code="e">tr.</marc:subfield>
+        <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1="1" ind2=" " tag="700">
         <marc:subfield code="a">Stone, John Hurford,</marc:subfield>
         <marc:subfield code="d">1763-1818,</marc:subfield>
-        <marc:subfield code="e">printer.</marc:subfield>
+        <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="710">
 		<marc:subfield code="a">Librairie historique R. Clavreuil</marc:subfield>
@@ -4105,11 +4104,9 @@
 	</marc:datafield>
 	<marc:datafield tag="500" ind1=" " ind2=" ">
 		<marc:subfield code="a">Circular sticker on front paste-down endpaper, in ink: C 229</marc:subfield>
-		<marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="500" ind1=" " ind2=" ">
 		<marc:subfield code="a">Circular sticker on front paste-down endpaper, in ink: C 230</marc:subfield>
-		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield tag="510" ind1="4" ind2=" ">
@@ -4175,8 +4172,6 @@
 	<marc:datafield tag="592" ind1=" " ind2=" ">
 		<marc:subfield code="a">Epistolary</marc:subfield>
 		<marc:subfield code="a">First-person</marc:subfield>
-		<marc:subfield code="v">v.1</marc:subfield>
-		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield tag="594" ind1=" " ind2=" ">
@@ -4302,7 +4297,7 @@
 
 	<marc:datafield tag="999" ind1=" " ind2=" ">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">6/4/2018</marc:subfield>
+		<marc:subfield code="b">6/4/18</marc:subfield>
 		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -4383,7 +4378,7 @@
 		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="260" ind1="0" ind2=" ">
-		<marc:subfield code="a">London :</marc:subfield>
+		<marc:subfield code="a">London</marc:subfield>
 		<marc:subfield code="b">Printed for C. Dilly ...,</marc:subfield>
 		<marc:subfield code="c">1795.</marc:subfield>
 	</marc:datafield>
@@ -4587,7 +4582,7 @@
 	</marc:datafield>
 	<marc:datafield tag="999" ind1=" " ind2=" ">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">6/1/2018</marc:subfield>
+		<marc:subfield code="b">6/1/18</marc:subfield>
 		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="d">DPL</marc:subfield>
 	</marc:datafield>
@@ -4670,7 +4665,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="592">
 		<marc:subfield code="a">Third-person</marc:subfield>
 		<marc:subfield code="c">Poems</marc:subfield>
-		<marc:subfield code="c">Songs</marc:subfield>
+		<marc:subfield code="a">Sheet music</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2="0" tag="650">
 		<marc:subfield code="a">English wit and humor</marc:subfield>
@@ -5068,7 +5063,6 @@
     </marc:datafield> 
     <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Author (paratext)</marc:subfield>
-        <marc:subfield code="b">True Briton Office</marc:subfield>
         <marc:subfield code="2">True Briton Office, No. 5, Catharine-Street, Strand, February 12, 1795</marc:subfield>
         <marc:subfield code="3">Advertisement</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
@@ -5122,8 +5116,8 @@
     </marc:datafield>
     <marc:datafield tag="999" ind1=" " ind2=" ">
         <marc:subfield code="a">IC</marc:subfield>
-        <marc:subfield code="b">6/01/18</marc:subfield>
-        <marc:subfield code="c">University of Pennslyvania</marc:subfield>
+        <marc:subfield code="b">6/1/18</marc:subfield>
+        <marc:subfield code="c">University of Pennsylvania</marc:subfield>
         <marc:subfield code="d">OF</marc:subfield>
     </marc:datafield>
 </marc:record>
@@ -5196,7 +5190,7 @@
 		<marc:subfield code="a">Salisbury</marc:subfield>
 		<marc:subfield code="b">Printed by J. Easton; For E. Newberry, the corner of St. Paul's church-yard, London.</marc:subfield>
 		<marc:subfield code="c">1795.</marc:subfield>
-		<marc:subfield code="d">1795</marc:subfield>
+		<marc:subfield code="c">1795</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="261" ind1="0" ind2=" ">
         <marc:subfield code="b">Printed Printed by J. Easton; For E. Newberry, the corner of St. Paul's church-yard, London.</marc:subfield>
@@ -5243,7 +5237,7 @@
 		<marc:subfield code="2">The Author</marc:subfield>
 		<marc:subfield code="3">Dedication</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 		<marc:subfield code="a">Author (paratext)</marc:subfield>
@@ -5251,7 +5245,7 @@
 		<marc:subfield code="2">The Author</marc:subfield>
 		<marc:subfield code="3">Dedication</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="650" ind1=" " ind2="4">
 		<marc:subfield code="a">CHR 1795</marc:subfield>
@@ -5301,7 +5295,7 @@
 	<marc:datafield tag="999" ind1=" " ind2=" ">
 		<marc:subfield code="a">SH</marc:subfield>
 		<marc:subfield code="b">6/5/18</marc:subfield>
-		<marc:subfield code="c">University of Pennslyvania</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
 </marc:record>
@@ -5463,7 +5457,7 @@
     </marc:datafield>
     <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Translated from the German of Grosse.</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -5681,8 +5675,8 @@
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">From the German of Veit Weber</marc:subfield>
 		<marc:subfield code="3">Title Page</marc:subfield>
-		<marc:subfield code="4">Male</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
+		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Wächter, Leonhard</marc:subfield>
@@ -5740,7 +5734,7 @@
 	<marc:datafield tag="999" ind1=" " ind2=" ">
 		<marc:subfield code="a">SH</marc:subfield>
 		<marc:subfield code="b">6/5/18</marc:subfield>
-		<marc:subfield code="c">University of Pennslyvania</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
 </marc:record>
@@ -6011,7 +6005,7 @@
             <marc:datafield tag="999" ind1=" " ind2=" ">
                 <marc:subfield code="a">IC</marc:subfield>
                 <marc:subfield code="b">6/4/18</marc:subfield>
-                <marc:subfield code="c">University of Pennslyvania</marc:subfield>
+                <marc:subfield code="c">University of Pennsylvania</marc:subfield>
                 <marc:subfield code="d">AS</marc:subfield>
             </marc:datafield>
         </marc:record><marc:record>
@@ -6114,7 +6108,6 @@
 	</marc:datafield>
 	<marc:datafield tag="500" ind1=" " ind2=" ">
         <marc:subfield code="a">On front paste-down endpaper, bookplate of Library of the University of Pennslyvania; transcription of bottom of bookplate, in ink: "The Godfrey F. Singer Memorial Presented by Mr. and Mrs. Jacob Singer" </marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="500" ind1=" " ind2=" ">
         <marc:subfield code="a">Printer's ornament on p.101 of v.2.</marc:subfield>
@@ -6311,14 +6304,14 @@
     </marc:datafield>
     <marc:datafield ind1="0" ind2="7" tag="246">
 	    <marc:subfield code="a">Louisa Mildmay.</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
     <marc:datafield ind1="0" ind2="7" tag="246">
 	    <marc:subfield code="a">Louisa Mildmay. (verso)</marc:subfield>
 		<marc:subfield code="a">Louisa Mildmay. (recto)</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="250">
         <marc:subfield code="a">Cooke's edition.</marc:subfield>
@@ -6353,7 +6346,7 @@
 	    <marc:subfield code="a">Dedication</marc:subfield>
 		<marc:subfield code="b">To her grace the dutchess of Northumberland.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Transcription of first sentence: "Madam, Had your grace been only a dutchess, the author of these little volumes had sought some other patronage, and declined to pay that respect to your rank which he now addresses to your virtues." Signed: "Most devoted and most humble servant, Hugh Kelly. Middle Temple, March 31, 1767.</marc:subfield>
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="590">
@@ -6365,14 +6358,14 @@
 	<marc:datafield ind1=" " ind2=" " tag="595">
 	    <marc:subfield code="a">Pencil</marc:subfield>
 		<marc:subfield code="b">Numbers</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">On title page; transcription: "[1767]"</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By Hugh Kelly, esq.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -6579,14 +6572,14 @@
 
 	<marc:datafield tag="250" ind1=" " ind2=" ">
 		<marc:subfield code="a">The second edition.</marc:subfield>
-		<marc:subfield code="b">Second edition.</marc:subfield>
+		<marc:subfield code="b">Second edition</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield tag="260" ind1=" " ind2=" ">
 		<marc:subfield code="a">London</marc:subfield>
 		<marc:subfield code="b">Printed for Charles Dilly, in the Poultry.</marc:subfield>
 		<marc:subfield code="c">1795</marc:subfield>
-		<marc:subfield code="d">1795.</marc:subfield>
+		<marc:subfield code="c">1795.</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="v">v.3</marc:subfield>
@@ -6764,7 +6757,7 @@
 	</marc:datafield>
 	<marc:datafield tag="999" ind1=" " ind2=" ">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">6/5/2018</marc:subfield>
+		<marc:subfield code="b">6/5/18</marc:subfield>
 		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="d">DPL</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
@@ -6820,36 +6813,36 @@
         <marc:subfield code="a">Duke of Clarence.</marc:subfield>
         <marc:subfield code="d">Letter-press</marc:subfield>
         <marc:subfield code="g">Half</marc:subfield>
-        <marc:subfield code="v">v.1.</marc:subfield>
-        <marc:subfield code="v">v.2.</marc:subfield>
-        <marc:subfield code="v">v.3.</marc:subfield>
-        <marc:subfield code="v">v.4.</marc:subfield>
+        <marc:subfield code="v">v.1</marc:subfield>
+        <marc:subfield code="v">v.2</marc:subfield>
+        <marc:subfield code="v">v.3</marc:subfield>
+        <marc:subfield code="v">v.4</marc:subfield>
         <marc:subfield code="x">Work</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="246" ind1=" " ind2=" ">
         <marc:subfield code="a">The Duke of Clarence. An historical novel. In four volumes. By E.M.F. Vol. [].</marc:subfield>
         <marc:subfield code="d">Letter-press</marc:subfield>
         <marc:subfield code="g">Full</marc:subfield>
-        <marc:subfield code="v">v.1.</marc:subfield>
-        <marc:subfield code="v">v.2.</marc:subfield>
-        <marc:subfield code="v">v.3.</marc:subfield>
-        <marc:subfield code="v">v.4.</marc:subfield>
+        <marc:subfield code="v">v.1</marc:subfield>
+        <marc:subfield code="v">v.2</marc:subfield>
+        <marc:subfield code="v">v.3</marc:subfield>
+        <marc:subfield code="v">v.4</marc:subfield>
         <marc:subfield code="x">Volume</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="246" ind1="0" ind2="7">
         <marc:subfield code="a">Duke of Clarence</marc:subfield>
-        <marc:subfield code="v">v.1.</marc:subfield>
-        <marc:subfield code="v">v.2.</marc:subfield>
-        <marc:subfield code="v">v.3.</marc:subfield>
-        <marc:subfield code="v">v.4.</marc:subfield>
+        <marc:subfield code="v">v.1</marc:subfield>
+        <marc:subfield code="v">v.2</marc:subfield>
+        <marc:subfield code="v">v.3</marc:subfield>
+        <marc:subfield code="v">v.4</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="246" ind1="0" ind2="7">
         <marc:subfield code="a">Duke of Clarence (verso)</marc:subfield>
         <marc:subfield code="a">Duke of Clarence (recto)</marc:subfield>
-        <marc:subfield code="v">v.1.</marc:subfield>
-        <marc:subfield code="v">v.2.</marc:subfield>
-        <marc:subfield code="v">v.3.</marc:subfield>
-        <marc:subfield code="v">v.4.</marc:subfield>
+        <marc:subfield code="v">v.1</marc:subfield>
+        <marc:subfield code="v">v.2</marc:subfield>
+        <marc:subfield code="v">v.3</marc:subfield>
+        <marc:subfield code="v">v.4</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="260" ind1="0" ind2=" ">
         <marc:subfield code="a">London</marc:subfield>
@@ -6908,7 +6901,7 @@
         <marc:subfield code="a">Author (text)</marc:subfield>
         <marc:subfield code="b">Initials</marc:subfield>
         <marc:subfield code="2">By E.M.F.</marc:subfield>
-        <marc:subfield code="3">Title page</marc:subfield>
+        <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
         <marc:subfield code="6">Female</marc:subfield>
     </marc:datafield>
@@ -6922,9 +6915,9 @@
         <marc:subfield code="a">Fiction</marc:subfield>
         <marc:subfield code="b">Back</marc:subfield>
         <marc:subfield code="c">Same publisher</marc:subfield>
-        <marc:subfield code="v">v.1.</marc:subfield>
-        <marc:subfield code="v">v.2.</marc:subfield>
-        <marc:subfield code="v">v.3.</marc:subfield>
+        <marc:subfield code="v">v.1</marc:subfield>
+        <marc:subfield code="v">v.2</marc:subfield>
+        <marc:subfield code="v">v.3</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="650" ind1=" " ind2="4">
         <marc:subfield code="a">CHR 1795</marc:subfield>
@@ -7169,7 +7162,7 @@
         <marc:subfield code="2">The reader will remember, that the Editor is accountable only for scattering chapters, and fragments of chapters; the curate must answer for the rest.</marc:subfield>
         <marc:subfield code="3">Footnote</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
     </marc:datafield> 
     <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Author (text)</marc:subfield>
@@ -7177,7 +7170,7 @@
         <marc:subfield code="2">Though the Curate could not remember having shown this chapter to any body, I strongly suspect that these political observations are the work of a later pen than the rest of this performance.</marc:subfield>
         <marc:subfield code="3">Footnote</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
     </marc:datafield>
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 		<marc:subfield code="a">Author (paratext)</marc:subfield>
@@ -7331,7 +7324,7 @@
 		<marc:subfield code="a">Philadelphia</marc:subfield>
 		<marc:subfield code="b">From the store of Thomas Stephens, no. 60, South Second Street.</marc:subfield>
 		<marc:subfield code="c">1795</marc:subfield>
-		<marc:subfield code="d">1795.</marc:subfield>
+		<marc:subfield code="c">1795.</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
@@ -7400,7 +7393,7 @@
 		<marc:subfield code="x">First sentence: "At the distance of sixty miles from London, and in a small village, Mrs. Woodfield had chosen the retirement which her circumstances rendered nescessary."</marc:subfield>
 	</marc:datafield>	
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
@@ -7600,14 +7593,14 @@
 	    <marc:subfield code="a">The history of Ned Evans. Interspersed with moral and critical remarks; Anecdotes and characters of many persons well known in the polite world; and incidental strictures on the present state of Ireland. In two volumes. Vol. I.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 	    <marc:subfield code="a">The history of Ned Evans. Interspersed with moral and critical remarks; Anecdotes and characters of many persons well known in the polite world; and incidental strictures on the present state of Ireland. In two volumes. Vol. II.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="260">
@@ -7645,13 +7638,13 @@
 		<marc:subfield code="2">Shakespeare.</marc:subfield>
 		<marc:subfield code="b">Hamlet</marc:subfield>
 		<marc:subfield code="c">William Shakespeare</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
 	    <marc:subfield code="a">Pencil</marc:subfield>
 		<marc:subfield code="b">Words</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Transcription: "By Mrs. Jane West"; Location: Title page.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="595" ind1=" " ind2=" ">
@@ -7863,7 +7856,7 @@
 		<marc:subfield code="a">Errata</marc:subfield>
 		<marc:subfield code="b">Errata.</marc:subfield>
 		<marc:subfield code="c">Back</marc:subfield>
-		<marc:subfield code="c">List of errors and the page numbers they occur in.</marc:subfield>
+		<marc:subfield code="x">List of errors and the page numbers they occur in.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="590">
 		<marc:subfield code="a">Copy 2 imperfect: frontispiece wanting.</marc:subfield>
@@ -8033,35 +8026,35 @@
 	    <marc:subfield code="a">Montalbert. A novel. Vol. I.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Half</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="246" ind1=" " ind2=" ">
 	    <marc:subfield code="a">Montalbert. A novel. Vol. III.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Half</marc:subfield>
-		<marc:subfield code="v">v.3.</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="246" ind1=" " ind2=" ">
 	    <marc:subfield code="a">Montalbert. A novel. By Charlotte Smith. In three volumes. Vol. I.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="246" ind1=" " ind2=" ">
 	    <marc:subfield code="a">Montalbert. A novel. By Charlotte Smith. In three volumes. Vol. II.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="246" ind1=" " ind2=" ">
 	    <marc:subfield code="a">Montalbert. A novel. By Charlotte Smith. In three volumes. Vol. III.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.3.</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 
@@ -8070,9 +8063,9 @@
 		<marc:subfield code="b">Printed by S. Low, Berwick street Soho; For E. Booker, No. 56, New Bond street.</marc:subfield>
 		<marc:subfield code="c">1795</marc:subfield>
 		<marc:subfield code="c">1795.</marc:subfield>
-        <marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
-		<marc:subfield code="v">v.3.</marc:subfield>
+        <marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield tag="261" ind1=" " ind2=" ">
@@ -8107,13 +8100,13 @@
 	<marc:datafield tag="520" ind1=" " ind2=" ">
 	    <marc:subfield code="a">Footnotes</marc:subfield>
 		<marc:subfield code="c">Middle</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Transcription: "A down in Hampshire on the borders of Sussex, the resort of both counties for cricket matches."; Location: pg. 22</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="520" ind1=" " ind2=" ">
 	    <marc:subfield code="a">Footnotes</marc:subfield>
 		<marc:subfield code="c">Middle</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">Footnotes on pgs. 87 and 171</marc:subfield>
 	</marc:datafield>
 
@@ -8126,26 +8119,26 @@
 	    <marc:subfield code="a">Charlotte King(?) 1796</marc:subfield>
 		<marc:subfield code="b">Ink</marc:subfield>
 		<marc:subfield code="x">Location: Front pastedown endpaper</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="594" ind1=" " ind2=" ">
 	    <marc:subfield code="a">C King(?) 1796</marc:subfield>
 		<marc:subfield code="b">Ink</marc:subfield>
 		<marc:subfield code="x">Location: Front pastedown endpaper</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="594" ind1=" " ind2=" ">
 	    <marc:subfield code="a">Charlotte King(?) 1796</marc:subfield>
 		<marc:subfield code="b">Ink</marc:subfield>
 		<marc:subfield code="x">Location: Front pastedown endpaper</marc:subfield>
-		<marc:subfield code="v">v.3.</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By Charlotte Smith</marc:subfield>
-		<marc:subfield code="3">Full title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
 		<marc:subfield code="6">Female</marc:subfield>
 	</marc:datafield>
@@ -8286,7 +8279,7 @@
 	</marc:datafield>
 	<marc:datafield ind1="0" ind2="7" tag="246">
 		<marc:subfield code="a">Montford Castle. (recto)</marc:subfield>
-		<marc:subfield code="b">Montford Castle. (verso)</marc:subfield>
+		<marc:subfield code="a">Montford Castle. (verso)</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
@@ -8347,7 +8340,7 @@
         <marc:subfield code="2">Your Royal Highness's Most Obedient, Most Humble Servant, The Author</marc:subfield>
         <marc:subfield code="3">Dedication</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
         <marc:subfield code="v">v.1</marc:subfield>
     </marc:datafield> 
     <marc:datafield tag="599" ind1=" " ind2=" ">
@@ -8356,7 +8349,7 @@
         <marc:subfield code="2">Your Royal Highness's Most Obedient, Most Humble Servant, The Author</marc:subfield>
         <marc:subfield code="3">Dedication</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
         <marc:subfield code="v">v.1</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2="4" tag="650">
@@ -8607,11 +8600,11 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Ann Thomas</marc:subfield>
         <marc:subfield code="4">Author (text)</marc:subfield>
-        <marc:subfield code="5">Unathorized</marc:subfield>
+        <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Pope, Alexander</marc:subfield>
-        <marc:subfield code="b">1688-1744</marc:subfield>
+        <marc:subfield code="d">1688-1744</marc:subfield>
         <marc:subfield code="4">Author (epigraph)</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
@@ -8667,7 +8660,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Mendenhall, John Cooper</marc:subfield>
-        <marc:subfield code="b">1886-</marc:subfield>
+        <marc:subfield code="d">1886-</marc:subfield>
         <marc:subfield code="4">Inscribed by</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
@@ -8709,7 +8702,7 @@
     <marc:datafield tag="999" ind1=" " ind2=" ">
 		<marc:subfield code="a">IC</marc:subfield>
 		<marc:subfield code="b">6/20/18</marc:subfield>
-		<marc:subfield code="c">University of Pennslyvania</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">AS</marc:subfield>
 	</marc:datafield>
 </marc:record><marc:record>
@@ -8812,7 +8805,7 @@
     </marc:datafield>
 
     <marc:datafield tag="599" ind1=" " ind2=" ">
-        <marc:subfield code="a">Author(Illustration)</marc:subfield>
+        <marc:subfield code="a">Author (illustration)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Transcription: "Frontispiece the genius of taste introduced by Minerva to the novelist."; Signed: "Shillito Leeds"</marc:subfield>
         <marc:subfield code="3">Frontispiece</marc:subfield>
@@ -9353,7 +9346,7 @@
         <marc:subfield code="x">Transcription of first sentence: "Madam, the favourable opinion expressed by the Duchess of Devonshire, of the little work to which this is a sequel, induced me to solicit permission to dedicate these volumes to your ladyship."; Signed: "Your Ladyship's most obliged and devoted Servant, Charlotte Smith."; Dated: "May 16, 1796"</marc:subfield>
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520">
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="x">Lists dialogue/chapter titles with page number.</marc:subfield>
@@ -9362,7 +9355,7 @@
         <marc:subfield code="a">Poem</marc:subfield>
         <marc:subfield code="b">Song, from the French</marc:subfield>
         <marc:subfield code="c">Middle</marc:subfield>
-        <marc:subfield code="c">Transcription: "Ah! say, the fair Miranda cried,---Say where the abode of love is found:---Pervading nature, I replied,---His influence spreads the world around.; Location: p. 169-170</marc:subfield>
+        <marc:subfield code="x">Transcription: "Ah! say, the fair Miranda cried,---Say where the abode of love is found:---Pervading nature, I replied,---His influence spreads the world around.; Location: p. 169-170.</marc:subfield>
     </marc:datafield>	
     <marc:datafield ind1=" " ind2=" " tag="520">
         <marc:subfield code="a">Footnotes</marc:subfield>
@@ -9480,7 +9473,7 @@
     <marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">IC</marc:subfield>
 		<marc:subfield code="b">7/3/18</marc:subfield>
-		<marc:subfield code="c">University of Pennslyvania</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">OF</marc:subfield>
 	</marc:datafield>
 </marc:record><marc:record>
@@ -9677,7 +9670,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">IC</marc:subfield>
-		<marc:subfield code="b">7/518</marc:subfield>
+		<marc:subfield code="b">7/5/18</marc:subfield>
 		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">DPL</marc:subfield>
 	</marc:datafield>
@@ -9810,7 +9803,7 @@
 		<marc:subfield code="x">Transcription of first sentence: The public have the right to expect that the painter, who submits his picture to their judgment, should hang it up, and go away in silence.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-	    <marc:subfield code="a">Footnote</marc:subfield>
+	    <marc:subfield code="a">Footnotes</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="x">Transcription of footnore: The Messiah was formerly published in three volumes.</marc:subfield>
 	</marc:datafield>
@@ -9834,7 +9827,7 @@
 	    <marc:subfield code="a">Translator (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">Attempted from the German of Mr. Klopstock, by Joseph Collyer.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -9880,13 +9873,13 @@
 
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Collyer, Mary,</marc:subfield>
-		<marc:subfield code="d">d. 1763.</marc:subfield>
-		<marc:subfield code="e">tr.</marc:subfield>
+		<marc:subfield code="d">d. 1763</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Collyer, Joseph,</marc:subfield>
-		<marc:subfield code="d">d.1776,</marc:subfield>
-		<marc:subfield code="e">tr.</marc:subfield>
+		<marc:subfield code="d">d. 1776</marc:subfield>
+		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 	    <marc:subfield code="a">Collyer, Mary</marc:subfield>
@@ -10103,7 +10096,7 @@
         <marc:subfield code="x">Transcription of first sentence in advertisement: The uncommon encouragement which this selection has received from a discerning public, has naturally excited a grateful Propmptitude in the Publisher's Breast, to render it still more worthy of their Patronage.</marc:subfield>     
    	</marc:datafield>
    	<marc:datafield tag="520" ind1=" " ind2=" ">
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Table of Contents.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
    	</marc:datafield>
@@ -10367,7 +10360,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="592">
 		<marc:subfield code="a">Epistolary</marc:subfield>
-		<marc:subfield code="a">First-Person</marc:subfield>
+		<marc:subfield code="a">First-person</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
 		<marc:subfield code="a">Ink</marc:subfield>
@@ -10697,7 +10690,7 @@
     <marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">IC</marc:subfield>
 		<marc:subfield code="b">6/19/18</marc:subfield>
-		<marc:subfield code="c">University of Pennslyvania</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">OF</marc:subfield>
 	</marc:datafield>
 </marc:record>
@@ -11106,7 +11099,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="710">
         <marc:subfield code="a">Hookham and Carpenter (London, England)</marc:subfield>
-        <marc:subfield code="4">Sold By</marc:subfield>
+        <marc:subfield code="4">Sold by</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>         
 	<marc:datafield ind1="2" ind2=" " tag="710">
@@ -11326,7 +11319,7 @@
 	<marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Lane, William</marc:subfield>
         <marc:subfield code="d">1745-1814</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="710" ind1=" " ind2=" ">
@@ -11422,8 +11415,8 @@
 	    <marc:subfield code="a">Antoinette.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Half</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">Work</marc:subfield>
 	</marc:datafield>
 
@@ -11431,27 +11424,27 @@
 	    <marc:subfield code="a">Antoinette, a novel, in two volumes. Vol. I.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 	    <marc:subfield code="a">Antoinette, a novel, in two volumes. Vol. II.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield ind1="0" ind2=" " tag="246">
 	    <marc:subfield code="a">Antoinette.</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="0" ind2=" " tag="246">
 	    <marc:subfield code="a">Antoinette. (verso)</marc:subfield>
 	    <marc:subfield code="a">Antoinette. (recto)</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield ind1="0" ind2=" " tag="260">
@@ -11521,8 +11514,8 @@
 		<marc:subfield code="2">Pope.</marc:subfield>
 		<marc:subfield code="b">Paraphrases from Chaucer: the temple of fame</marc:subfield>
 		<marc:subfield code="c">Alexander Pope</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="592">
 	    <marc:subfield code="a">Third-person</marc:subfield>
@@ -11533,13 +11526,13 @@
 	    <marc:subfield code="a">John C. Mendenhall April 1927</marc:subfield>
 		<marc:subfield code="b">Ink</marc:subfield>
 		<marc:subfield code="x">Location: front free endpaper; Note: "September" is written but crossed out</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="594">
 	    <marc:subfield code="a">John C. Mendenhall April 1927</marc:subfield>
 		<marc:subfield code="b">Ink</marc:subfield>
 		<marc:subfield code="x">Location: front free endpaper</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2="4" tag="650">
 		<marc:subfield code="a">CHR 1796</marc:subfield>
@@ -11745,7 +11738,7 @@
 		<marc:subfield code="a">Errata</marc:subfield>
 		<marc:subfield code="b">Errata.</marc:subfield>
 		<marc:subfield code="c">Back</marc:subfield>
-		<marc:subfield code="v">Vol.2</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="591">
 		<marc:subfield code="a">Dicimus autem hos qouque felices, qui ferre incommoda vitae, nec jactare jugum, vita, didicere magistra.</marc:subfield>
@@ -11813,30 +11806,30 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Strahan, Andrew</marc:subfield>
 		<marc:subfield code="d">1749-1831</marc:subfield>
-		<marc:subfield code="4">Printed For</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Cadell, Thomas</marc:subfield>
         <marc:subfield code="d">1742-1802</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Cadell, Thomas</marc:subfield>
         <marc:subfield code="d">171.?-178.</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Davies, William</marc:subfield>
 		<marc:subfield code="d">17..-1819</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
 		<marc:datafield ind1=" " ind2=" " tag="710">
 		<marc:subfield code="a">Cadell &amp; Davies</marc:subfield>
-		<marc:subfield code="4">Printed For</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 		<marc:datafield ind1="2" ind2=" " tag="710">
@@ -12069,30 +12062,30 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Strahan, Andrew</marc:subfield>
 		<marc:subfield code="d">1749-1831</marc:subfield>
-		<marc:subfield code="4">Printed For</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
     <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Cadell, Thomas</marc:subfield>
         <marc:subfield code="d">1742-1802</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Cadell, Thomas</marc:subfield>
         <marc:subfield code="d">171.?-178.</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
      <marc:datafield tag="700" ind1=" " ind2=" ">
         <marc:subfield code="a">Davies, William</marc:subfield>
 		<marc:subfield code="d">17..-1819</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="710">
 		<marc:subfield code="a">Cadell &amp; Davies</marc:subfield>
-		<marc:subfield code="4">Printed For</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="710">
@@ -12528,7 +12521,7 @@
         <marc:subfield code="x">Incomplete preface. Begins on page "(v)" and ends on page "(vii)"; First sentence: "(...)Spain, and the readers of these pages will require no farther proofs of the baneful consequences which have originated from his errors."; Last sentence: "The translator has nothing to add, but to apologize for the foreign idoms which may perhaps occur to the discerning eyes of the keen-sighted critic, and hopes that his labor will contribute, at least something to the destruction of fanaticism in this country."; Signed: "P. Will."</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="520" ind1=" " ind2=" ">
-        <marc:subfield code="a">To the reader</marc:subfield>
+        <marc:subfield code="a">To the Reader</marc:subfield>
         <marc:subfield code="b">The translator's address to his thinking readers.</marc:subfield>
         <marc:subfield code="c">Back</marc:subfield>
         <marc:subfield code="v">v.3</marc:subfield>
@@ -12543,9 +12536,6 @@
     </marc:datafield>   
     <marc:datafield tag="592" ind1=" " ind2=" ">
         <marc:subfield code="a">First-person</marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
-        <marc:subfield code="v">v.2</marc:subfield>
-        <marc:subfield code="v">v.3</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="595" ind1=" " ind2=" ">
         <marc:subfield code="a">Ink</marc:subfield>
@@ -12590,7 +12580,7 @@
 	</marc:datafield>
     <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Translator (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Founded on historical facts, and translated from the German of Cajetan Tschink. ---By P. Will</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -12601,7 +12591,7 @@
     </marc:datafield>
     <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Author (paratext)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">The translator has nothing to add, but to apologize for the foreign idioms which may perhaps occur to the discerning eyes of the keen-sighted critic, and hopes that his labor will contribute, at least something to the desctruction of fanaticism in this century. ---P. Will.</marc:subfield>
         <marc:subfield code="3">Preface</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -12610,7 +12600,7 @@
     </marc:datafield>
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 		<marc:subfield code="a">Author (paratext)</marc:subfield>
-		<marc:subfield code="b">Generic/descriptive</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">The translator's address to his thinking readers.</marc:subfield>
 		<marc:subfield code="3">To the Reader</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
@@ -12707,8 +12697,8 @@
     </marc:datafield>
     <marc:datafield tag="999" ind1=" " ind2=" ">
         <marc:subfield code="a">DPL</marc:subfield>
-        <marc:subfield code="b">6/6/2018</marc:subfield>
-        <marc:subfield code="c">Univerisity of Pennsylvania</marc:subfield>
+        <marc:subfield code="b">6/6/18</marc:subfield>
+        <marc:subfield code="c">University of Pennsylvania</marc:subfield>
         <marc:subfield code="d">OF</marc:subfield>
     </marc:datafield>
 </marc:record>
@@ -12816,12 +12806,12 @@
 		<marc:subfield code="c">W232</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="520" ind1=" " ind2=" ">
-        <marc:subfield code="a">Footnote</marc:subfield>
+        <marc:subfield code="a">Footnotes</marc:subfield>
         <marc:subfield code="c">Middle</marc:subfield>
         <marc:subfield code="x">Transcription of first sentence of footnote on p. 46-47: There are many mountains, the summits of which are rounded into the form of a woman's breast, and bear that name in all languages.</marc:subfield>     
    	</marc:datafield>
    	<marc:datafield tag="520" ind1=" " ind2=" ">
-        <marc:subfield code="a">Footnote</marc:subfield>
+        <marc:subfield code="a">Footnotes</marc:subfield>
         <marc:subfield code="c">Middle</marc:subfield>
         <marc:subfield code="x">Transcription of footnote on p. 53: This trait of sagacity in the black Domingo and his dog, Fidele, very much resembles that of the savage Tewenissa, and his dog Oniah, mentioned by M. de Crevecaur, in his humane Work, entitled, Letters of an American Farmer.</marc:subfield>     
    	</marc:datafield>
@@ -13069,7 +13059,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="592">
 		<marc:subfield code="a">Epistolary</marc:subfield>
-		<marc:subfield code="a">First-Person</marc:subfield>
+		<marc:subfield code="a">First-person</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="594">
 		<marc:subfield code="a">June Frazier the gift of her cousin Anne Dalton</marc:subfield>
@@ -13137,12 +13127,12 @@
 	</marc:datafield>
 	<marc:datafield ind1="2" ind2=" " tag="710">
 		<marc:subfield code="a">Cadell &amp; Davies</marc:subfield>
-		<marc:subfield code="4">Printed For</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="2" ind2=" " tag="710">
 		<marc:subfield code="a">G. and T. Wilkie (Firm)</marc:subfield>
-		<marc:subfield code="4">Printed For</marc:subfield>
+		<marc:subfield code="4">Printed for</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="950">
@@ -13278,7 +13268,7 @@
 		<marc:subfield code="c">1795: 39</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-	    <marc:subfield code="a">To the reader</marc:subfield>
+	    <marc:subfield code="a">To the Reader</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="x">Transcription: The manner in which this fragment is mentioned in the Monthly Review, for September, 1794, page 21, as it has been an inducement for offering this translation to the public, will also in some degree, apologize for its present title; which it is apprehended, may appear quaint and insignificant.</marc:subfield>
 	</marc:datafield>
@@ -13322,7 +13312,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
 	    <marc:subfield code="a">Author (source text)</marc:subfield>
-		<marc:subfield code="b">Proper Name</marc:subfield>
+		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">From the German of Schiller</marc:subfield>
 	    <marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
@@ -13612,8 +13602,8 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
-		<marc:subfield code="c">6/21/18</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
+		<marc:subfield code="b">6/21/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
 </marc:record>
@@ -13984,7 +13974,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Bell, John</marc:subfield>
 		<marc:subfield code="d">1745-1831</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -14274,7 +14264,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/2/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -14628,7 +14618,7 @@
         <marc:subfield code="x">Transcription of first sentence of Preface: "Methinks, Oh! vain ill judging book,--- I see thee cast a wishful look,--- Where reputations won and lost are--- In famous row called Paternoster.;" Signed: "M. G. L."</marc:subfield>     
    	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Table of the Poetry.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.1</marc:subfield>    
@@ -14719,7 +14709,7 @@
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Pencil</marc:subfield>
-        <marc:subfield code="b">Reader Markings</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="v">v.2</marc:subfield>
         <marc:subfield code="x">Transcription, on p.279: "her" replaces the "him" in "himself"</marc:subfield>
 	</marc:datafield>
@@ -14935,7 +14925,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By George Walker, author of the House of Tynian, &amp;c.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -14965,7 +14955,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Walker, George</marc:subfield>
 		<marc:subfield code="d">1772-1847</marc:subfield>
-		<marc:subfield code="4">Author</marc:subfield>
+		<marc:subfield code="4">Author (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -15085,7 +15075,7 @@
 		<marc:subfield code="a">London</marc:subfield>
 		<marc:subfield code="b">Printed for William Lane, Minerva, Leadenhall Street.</marc:subfield>
 		<marc:subfield code="c">1795</marc:subfield>
-		<marc:subfield code="d">M.DCC.XCV.</marc:subfield>
+		<marc:subfield code="c">M.DCC.XCV.</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">No title page/publication information in v.2</marc:subfield>
 	</marc:datafield>
@@ -15114,7 +15104,7 @@
 		<marc:subfield code="c">p. 216.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="520" ind1=" " ind2=" ">
-		<marc:subfield code="a">Subscribers' List</marc:subfield>
+		<marc:subfield code="a">Subscribers' list</marc:subfield>
 		<marc:subfield code="b">List of Subscribers.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
@@ -15142,7 +15132,7 @@
 	</marc:datafield>
 	<marc:datafield tag="599" ind1=" " ind2=" ">
 		<marc:subfield code="a">Author (text)</marc:subfield>
-		<marc:subfield code="b">Generic</marc:subfield>
+		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">Written by a young lady.</marc:subfield>
 		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
@@ -15288,7 +15278,7 @@
 		<marc:subfield code="a">Dublin</marc:subfield>
 		<marc:subfield code="b">Printed for Messrs. Wogan, Byrne and Rice.</marc:subfield>
 		<marc:subfield code="c">1795</marc:subfield>
-		<marc:subfield code="d">1795.</marc:subfield>
+		<marc:subfield code="c">1795.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="300" ind1=" " ind2=" ">
 		<marc:subfield code="a">300 p. ;</marc:subfield>
@@ -15564,7 +15554,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Pencil</marc:subfield>
-        <marc:subfield code="b">Reader Markings</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="v">v.4</marc:subfield>
         <marc:subfield code="x">Transcription, p. 163: Crossed out "Louisa" and replaced with "Eloise"</marc:subfield>
 	</marc:datafield>
@@ -15590,12 +15580,11 @@
     </marc:datafield>
 	<marc:datafield ind1="1" ind2="0" tag="700">
 		<marc:subfield code="a">C--r, Mary,</marc:subfield>
-		<marc:subfield code="c">Lady.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Lane, William</marc:subfield>
         <marc:subfield code="d">1745-1814</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -15856,7 +15845,6 @@
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2="0" tag="700">
 		<marc:subfield code="a">Purbeck,</marc:subfield>
-		<marc:subfield code="c">Miss,</marc:subfield>
 		<marc:subfield code="d">fl. 1791.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -16081,31 +16069,31 @@
         <marc:subfield code="x">Transcription: "The author of this little work cannot, in the anxious moment of committing it to its fate, refuse herself the indulgence of expressing some portion of the gratitude with which she is filled, by the highly favorable reception given to her two former attempts in this species of composition; nor forbear pouring forth her thanks to the many friends whose kind zeal has forwarded the present undertaking:----from amongst whom she knows not how to resist selecting and gratifying herself by naming the Hon. Mrs. Boscawen, Mrs. Crewe, and Mrs. Locke."</marc:subfield>     
    	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the First Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.1</marc:subfield>    
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the Second Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.2</marc:subfield>    
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the Third Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.3</marc:subfield>    
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the Fourth Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.4</marc:subfield>    
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the Fifth Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.5</marc:subfield>    
@@ -16115,7 +16103,6 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="593">
         <marc:subfield code="a">His Royal Highness the Duchess of York, His Royal Highness the Duke of Gloucester, Earl of Ashburnham, Countess of Ancram, Viscount St. Asaph, Right Hon. Lady Henrietta Ashburnham, Right Hon. Lady Archer, Miss Abercromby, Miss Abrams, James Adams, Esq., Mrs. Agnew, Miss Alderson, Mrs. Allanson, Rev. Stephen Allen, Lynn, Maxey Allen, Esq. Lynn, Mrs. John Towers Allen, Mrs. Jane Allen, Samuel Anderson, Esq., Mrs Andre</marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
         <marc:subfield code="x">The list is long and only the first page is recorded.</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="594">
@@ -16133,7 +16120,7 @@
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Madam, your majesty's most obedient, most obliged, and most dutiful servant, F. d'Arblay</marc:subfield>
         <marc:subfield code="3">Dedication</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
@@ -16193,7 +16180,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Burney, Fanny</marc:subfield>
         <marc:subfield code="d">1752-1840</marc:subfield>
-        <marc:subfield code="4">Author(text)</marc:subfield>
+        <marc:subfield code="4">Author (text)</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -16735,7 +16722,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">William Lane</marc:subfield>
         <marc:subfield code="d">1745-1814</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -16941,34 +16928,34 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">John Barlow</marc:subfield>
-        <marc:subfield code="4">Printed By</marc:subfield>
+        <marc:subfield code="4">Printed by</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Burnside, Thomas</marc:subfield>
 		<marc:subfield code="d">fl. 1796-1798</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Byrne, Patrick</marc:subfield>
 		<marc:subfield code="d">1741?-1814</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">J. Rice</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">J. Boyce</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">W. Porter</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -17124,7 +17111,7 @@
 		<marc:subfield code="c">p.4</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-		<marc:subfield code="a">Poems</marc:subfield>
+		<marc:subfield code="a">Poem</marc:subfield>
 		<marc:subfield code="b">Fragment.</marc:subfield>
 		<marc:subfield code="c">Middle</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
@@ -17851,7 +17838,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Low, Sampson</marc:subfield>
         <marc:subfield code="d">1797-1886</marc:subfield>
-        <marc:subfield code="4">Printed By</marc:subfield>
+        <marc:subfield code="4">Printed by</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -18240,7 +18227,7 @@
         <marc:subfield code="x">Transcription of first sentence: The events related in the following pages, naturally became a frequent subject of conversation with my children and my friends.</marc:subfield>     
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>    
    	</marc:datafield>
@@ -18268,7 +18255,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">By Donald Campbell, of Barbreck, Esq.</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -18495,7 +18482,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By Donald Campbell, of Barbeck, Esq.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -18520,7 +18507,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Campbell, Donald</marc:subfield>
 		<marc:subfield code="d">1751-1804‏</marc:subfield>
-		<marc:subfield code="4">Author(text)</marc:subfield>
+		<marc:subfield code="4">Author (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -18656,15 +18643,15 @@
 		<marc:subfield code="a">The House of Tynian. A Novel. In Two Volumes. By George Walker. Vol. I. </marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">Volume</marc:subfield>
-		<marc:subfield code="z">v.1</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>	
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The House of Tynian. A Novel. In Two Volumes. By George Walker. Vol. I.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">Volume</marc:subfield>
-		<marc:subfield code="z">v.2</marc:subfield>
+		<marc:subfield code="x">Volume</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield tag="246" ind1="0" ind2="7">
         <marc:subfield code="a">The House of Tynian.</marc:subfield>
@@ -18748,10 +18735,10 @@
 	</marc:datafield>
 
 	<marc:datafield ind1=" " ind2=" " tag="599">
-		<marc:subfield code="a">Author(text)</marc:subfield>
+		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By George Walker</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -18944,7 +18931,7 @@
 		<marc:subfield code="2">Compiled from the journal of a decesased friend</marc:subfield>
 		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
 	   <marc:subfield code="a">Editor (text)</marc:subfield>
@@ -18991,7 +18978,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">C. H. Humphrey</marc:subfield>
 		<marc:subfield code="4">Inscribed by</marc:subfield>
-		<marc:subfield code="5">Unuthorized</marc:subfield>
+		<marc:subfield code="5">Unauthorized</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield ind1="2" ind2=" " tag="710">
@@ -19655,7 +19642,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">With a life of the author, written by himself.</marc:subfield>
-		<marc:subfield code="3">TitlePage</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
@@ -20056,77 +20043,77 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Wogan, Patrick</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Bryne, Lars P.</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Exshaw, J. (John)</marc:subfield>
         <marc:subfield code="d">1750 or 51-1827</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Moore, John</marc:subfield>
         <marc:subfield code="d">1729-1802</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Colbert, H. (Harriot)</marc:subfield>
         <marc:subfield code="d">fl. 1786-1807</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Kelly, Nicholas</marc:subfield>
         <marc:subfield code="d">active 1764-1828</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Fitzpatrick, Hugh</marc:subfield>
         <marc:subfield code="d">-1818</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Folingsby, George</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">T. Stewart</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">W. Porter</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Halpen, John</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Milliken, John</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">J. Rice</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield> 
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">J. Boyce</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1="2" ind2=" " tag="710">
@@ -20544,7 +20531,7 @@
 		<marc:subfield code="c">p.180</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Footenotes</marc:subfield>
+		<marc:subfield code="a">Footnotes</marc:subfield>
 		<marc:subfield code="c">Middle</marc:subfield>
 		<marc:subfield code="v">v.4</marc:subfield>
 		<marc:subfield code="x">Located on pg. 200.</marc:subfield>
@@ -20634,7 +20621,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/6/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -20748,7 +20735,6 @@
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="593">
         <marc:subfield code="a">His Grace the Duke of Athol, Her Grace the Duchess of Athol, The Earl of Ashburnham, The Rt. Hon. Lady Eliz. Ashburnham, The Right Hon. Lord Arden, The Rt. Hon. Lady Charles Aynsley, Mrs. Arnold, Mrs. Anderson, Miss Frances Ashburnham, Captain Andrews, Captain Attle, Mrs: Affleck, - Antrobus, Esq.</marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
         <marc:subfield code="x">The list is long, only first page recorded. Heading: "Names of the Subscribers." Located at front.</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
@@ -20771,7 +20757,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Hookham, Thomas</marc:subfield>
         <marc:subfield code="d">1739?-1819</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -20950,7 +20936,7 @@
 	</marc:datafield>
 
 	<marc:datafield ind1=" " ind2=" " tag="250">
-		<marc:subfield code="a">Second edition.</marc:subfield>
+		<marc:subfield code="a">Second edition</marc:subfield>
 		<marc:subfield code="b">Second edition</marc:subfield>
 	</marc:datafield>
 
@@ -21004,7 +20990,7 @@
 
 	<marc:datafield ind1=" " ind2=" " tag="592">
 		<marc:subfield code="a">Third-person</marc:subfield>
-		<marc:subfield code="a">Letters</marc:subfield>
+		<marc:subfield code="a">Epistolary</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield ind1=" " ind2=" " tag="595">
@@ -21135,7 +21121,7 @@
 		<marc:subfield code="s">g. John C. Mendenhall</marc:subfield>
 		<marc:subfield code="i">03/16/87 C</marc:subfield>
 	</marc:datafield>
-	<marc:datafield ind1=" " ind2=" " tag="246">
+	<marc:datafield ind1=" " ind2=" " tag="989">
 		<marc:subfield code="2">Child</marc:subfield>
 		<marc:subfield code="2">Abbey</marc:subfield>
 		<marc:subfield code="2">Tale</marc:subfield>
@@ -21145,9 +21131,9 @@
 		<marc:subfield code="3">Second</marc:subfield>
 		<marc:subfield code="5">Regina Maria Roche</marc:subfield>
 	</marc:datafield>
-	<marc:datafield ind1=" " ind2=" " tag="989">
+	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/17/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -21284,7 +21270,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
 		<marc:subfield code="a">Author (text)</marc:subfield>
-		<marc:subfield code="b">Reference to other texts</marc:subfield>
+		<marc:subfield code="b">Reference to other works</marc:subfield>
 		<marc:subfield code="2">By Benjamin Keach, Author of a book, called War with the Devil, and Sion in Distress.</marc:subfield>
 		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
@@ -21400,7 +21386,7 @@
 	
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/10/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -21454,35 +21440,35 @@
 	    <marc:subfield code="a">The Irish heiress, a novel, in three volumes. Vol. I.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 	    <marc:subfield code="a">The Irish heiress, a novel, in three volumes. Vol. II.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 	    <marc:subfield code="a">The Irish heiress, a novel, in three volumes. Vol. III.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.3.</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="0" ind2="7" tag="246">
 	    <marc:subfield code="a">The Irish heiress.</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
-		<marc:subfield code="v">v.3.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="0" ind2="7" tag="246">
 	    <marc:subfield code="a">The Irish heiress. (verso)</marc:subfield>
 		<marc:subfield code="a">The Irish heiress. (recto)</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
-		<marc:subfield code="v">v.3.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="260">
 		<marc:subfield code="a">London</marc:subfield>
@@ -21531,9 +21517,9 @@
 		<marc:subfield code="2">Shakespeare</marc:subfield>
 		<marc:subfield code="b">Henry VI</marc:subfield>
 		<marc:subfield code="c">William Shakespeare</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
-		<marc:subfield code="v">v.3.</marc:subfield>	
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>	
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="592">
 	    <marc:subfield code="a">First-person</marc:subfield>
@@ -21543,19 +21529,19 @@
 	    <marc:subfield code="a">Eliz: Bateman 3 vols</marc:subfield>
 		<marc:subfield code="b">Ink</marc:subfield>
 		<marc:subfield code="x">Location: front free endpaper</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="594">
 	    <marc:subfield code="a">Eliz: Bateman</marc:subfield>
 		<marc:subfield code="b">Ink</marc:subfield>
 		<marc:subfield code="x">Location: front free endpaper</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="594">
 	    <marc:subfield code="a">Eliz: Bateman 3 vols</marc:subfield>
 		<marc:subfield code="b">Ink</marc:subfield>
 		<marc:subfield code="x">Location: front free endpaper</marc:subfield>
-		<marc:subfield code="v">v.3.</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2="4" tag="650">
 		<marc:subfield code="a">CHR 1797</marc:subfield>
@@ -21753,14 +21739,14 @@
 		<marc:subfield code="x">Begins: "Indeed, Madam, you are the very identical person this dedication was designed for; there is no mistake whatever, believe me, which, as your diffidence equals your beauty, I see is almost your persuasion." Signed: "Too happy shall I be, if enabled, in a second address, to assure you, that I remain most sincerely your friend, The compiler." Dated: "Nov. 1797"</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents of the second volume.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Misprint, v.2 contents bound in v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents of the second volume.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
@@ -21800,7 +21786,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
 		<marc:subfield code="a">Pencil</marc:subfield>
-		<marc:subfield code="b">WordS</marc:subfield>
+		<marc:subfield code="b">Words</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">On front paste-down endpaper. Reads: "what you Please", looks like child's script.</marc:subfield>
 	</marc:datafield>
@@ -21810,7 +21796,7 @@
 		<marc:subfield code="2">Too happy shall I be, if enabled, in a second address, to assure you, that I remain most sincerely your friend, The compiler.</marc:subfield>
 		<marc:subfield code="3">Dedication</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2="7" tag="655">
 		<marc:subfield code="a">Epistolary fiction</marc:subfield>
@@ -21880,7 +21866,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/18/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -22094,36 +22080,36 @@
 	    <marc:subfield code="a">Elizabeth. A novel. In three volumes. Vol. I.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 	    <marc:subfield code="a">Elizabeth. A novel. In three volumes. Vol. II.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 	    <marc:subfield code="a">Elizabeth. A novel. In three volumes. Vol. III.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">v.3.</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield ind1="0" ind2="7" tag="246">
 	    <marc:subfield code="a">Elizabeth.</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
-		<marc:subfield code="v">v.3.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="0" ind2="7" tag="246">
 	    <marc:subfield code="a">Elizabeth. (verso)</marc:subfield>
 		<marc:subfield code="a">Elizabeth. (recto)</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
-		<marc:subfield code="v">v.2.</marc:subfield>
-		<marc:subfield code="v">v.3.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
+		<marc:subfield code="v">v.3</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="0" ind2=" " tag="260">
 		<marc:subfield code="a">London</marc:subfield>
@@ -22167,14 +22153,14 @@
 	    <marc:subfield code="a">Preface</marc:subfield>
 		<marc:subfield code="b">The preface.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Transcription of the First line: The following sheets are humbly offered to the public, under a full conviction, that amidst the variety of this kind of writing so constantly published, little or nothing of incident or character but has been produced in a far superior manner; yet the author trusts, that as some of the characters introduced in her book are not entirely fictitious, nor the heroine of her subject exempt from the common frailties of human nature, she humbly hopes for the candour of those who may honour it by their perusal, and for their favorable constructions upon this production of her pen.</marc:subfield>
 	</marc:datafield>
 
 	<marc:datafield ind1=" " ind2=" " tag="595">
 	    <marc:subfield code="a">Pencil</marc:subfield>
 		<marc:subfield code="b">Words</marc:subfield>
-		<marc:subfield code="v">v.1.</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Located on front free endpaper. Transcription: Blakey p 181 attributed to Mrs. Carver in Minerva cat of 1814 not in Block</marc:subfield>
 	</marc:datafield>
 
@@ -22572,7 +22558,6 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="593">
         <marc:subfield code="a">H. R. H. The Princess of Wales., H. R. H. The Duchess of York., Duchess of Marlborough, Duchess of Richmond (dec.), Duchess of Devonshire, Duchess of Northhumberland, Duchess of Leeds, Duchess of Athol, Duchess of Ancaster, Duchess of Newcastle, Duchess of Buccleugh, Marchioness of Salibury, Marchioness of Abercorn, Marchioness of Titchfield, Countess of Cholmondeley, Coutess of Suffolk</marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
         <marc:subfield code="x">The list is long and only first few names are recorded.</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
@@ -22841,7 +22826,7 @@
 		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">Preface. By the French translator.</marc:subfield>
 		<marc:subfield code="3">Preface</marc:subfield>
-		<marc:subfield code="5">Unknown</marc:subfield>
+		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
@@ -22849,7 +22834,7 @@
 		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">Preface. By the French translator.</marc:subfield>
 		<marc:subfield code="3">Preface</marc:subfield>
-		<marc:subfield code="5">Unknown</marc:subfield>
+		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
@@ -22857,7 +22842,7 @@
 		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">Advertisement by the French editor.</marc:subfield>
 		<marc:subfield code="3">Advertisement</marc:subfield>
-		<marc:subfield code="5">Unknown</marc:subfield>
+		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
@@ -22865,7 +22850,7 @@
 		<marc:subfield code="b">Generic/Descriptive</marc:subfield>
 		<marc:subfield code="2">Advertisement by the French editor.</marc:subfield>
 		<marc:subfield code="3">Advertisement</marc:subfield>
-		<marc:subfield code="5">Unknown</marc:subfield>
+		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2="4" tag="650">
@@ -22876,10 +22861,7 @@
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Montesquieu, Charles de Secondat,</marc:subfield>
-		<marc:subfield code="c">baron de,</marc:subfield>
 		<marc:subfield code="d">1689-1755.</marc:subfield>
-		<marc:subfield code="t">Arsace et Isménie.</marc:subfield>
-		<marc:subfield code="l">English.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Montesquieu, Charles de Secondat, baron de</marc:subfield>
@@ -22935,7 +22917,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/16/18</marc:subfield>
 		<marc:subfield code="d">OF</marc:subfield>
 	</marc:datafield>
@@ -23337,7 +23319,7 @@
     </marc:datafield> 	
     <marc:datafield tag="599" ind1=" " ind2=" ">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Reference to Other Works</marc:subfield>
+        <marc:subfield code="b">Reference to other works</marc:subfield>
         <marc:subfield code="2">Author of Poems, Angelina, The Sicilian Lover, The Widow, &amp;c. &amp;c. &amp;c.</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
@@ -23366,7 +23348,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Hookham, Thomas</marc:subfield>
         <marc:subfield code="d">1739?-1819</marc:subfield>
-        <marc:subfield code="4">Printed By</marc:subfield>
+        <marc:subfield code="4">Printed by</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -23420,8 +23402,8 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">IC</marc:subfield>
-		<marc:subfield code="b">University of Pennsylvania</marc:subfield>
-		<marc:subfield code="c">6/29/18</marc:subfield>
+		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
+		<marc:subfield code="b">6/29/18</marc:subfield>
 		<marc:subfield code="d">SH</marc:subfield>
 	</marc:datafield>
 </marc:record>
@@ -23555,7 +23537,7 @@
 	</marc:datafield>
 
 	<marc:datafield ind1=" " ind2=" " tag="592">
-		<marc:subfield code="a">Dramatic diologue</marc:subfield>
+		<marc:subfield code="a">Dramatic dialogue</marc:subfield>
 		<marc:subfield code="b">Third-person</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="596">
@@ -23656,7 +23638,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/11/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -23745,7 +23727,7 @@
 		<marc:subfield code="c">W26761</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Back</marc:subfield>
 		<marc:subfield code="x">Descriptions of each chapter, no page numbers.</marc:subfield>
@@ -24002,7 +23984,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">By Charlotte Smith</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
 		<marc:subfield code="6">Female</marc:subfield>
 	</marc:datafield>
@@ -24187,7 +24169,7 @@
 		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
-        <marc:subfield code="a">Author(text)</marc:subfield>
+        <marc:subfield code="a">Author (text)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">By Ann Radcliffe</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
@@ -24195,7 +24177,7 @@
         <marc:subfield code="6">Female</marc:subfield>
     </marc:datafield>     
     <marc:datafield ind1=" " ind2=" " tag="599">
-        <marc:subfield code="a">Author(text)</marc:subfield>
+        <marc:subfield code="a">Author (text)</marc:subfield>
         <marc:subfield code="b">Reference to other works</marc:subfield>
         <marc:subfield code="2">By Ann Radcliffe, Author of the Mysteries of Udolpho, &amp;c. &amp;c.</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
@@ -24461,7 +24443,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Reference to other works</marc:subfield>
 		<marc:subfield code="2">By the authoress of Evelina and Cecilia.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Female</marc:subfield>
 		<marc:subfield code="6">Female</marc:subfield>
 	</marc:datafield>
@@ -24603,49 +24585,49 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. I.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. II.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. III.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.3</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. IV.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.4</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. V.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.5</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. VI.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.6</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">The beggar girl and her benefactors. In seven volumes. By Mrs. Bennett, author of Welch Heiress, Juvenile Indiscretions, Agnes De-Courci, and Ellen Countess of Castle Howell. Vol. VII.</marc:subfield>
-		<marc:subfield code="b">Letter-press</marc:subfield>
+		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 		<marc:subfield code="v">v.7</marc:subfield>
@@ -25033,7 +25015,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Reference to other works</marc:subfield>
 		<marc:subfield code="2">By the author of Man as he is.</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -25339,7 +25321,7 @@
         <marc:subfield code="2">Regardless of my fate as an Editor, I solicit protection and indulgence only for Charlotte.</marc:subfield>
         <marc:subfield code="3">Preface</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
     </marc:datafield> 
 	<marc:datafield ind1=" " ind2=" " tag="599">
 		<marc:subfield code="a">Editor (text)</marc:subfield>
@@ -25347,7 +25329,7 @@
 		<marc:subfield code="2">Regardless of my fate as an Editor, I solicit protection and indulgence only for Charlotte.</marc:subfield>
 		<marc:subfield code="3">Preface</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2="0" tag="600">
 		<marc:subfield code="a">Goethe, Johann Wolfgang von,</marc:subfield>
@@ -25361,7 +25343,6 @@
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Goethe, Johann Wolfgang von,</marc:subfield>
 		<marc:subfield code="d">1749-1832.</marc:subfield>
-		<marc:subfield code="t">Werther.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">James, William</marc:subfield>
@@ -25566,7 +25547,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">By M. S. Pilkington</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
@@ -25584,7 +25565,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Newbery, E. (Elizabeth)</marc:subfield>
         <marc:subfield code="d">1746-1821</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -25756,7 +25737,7 @@
         <marc:subfield code="v">v.1</marc:subfield>   
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">The contents of the second volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.2</marc:subfield>   
@@ -25775,7 +25756,7 @@
         <marc:subfield code="e">From the French of Alain-Rene Le Sage</marc:subfield>
 	</marc:datafield>  
     <marc:datafield ind1=" " ind2=" " tag="599">
-        <marc:subfield code="a">Author(text)</marc:subfield>
+        <marc:subfield code="a">Author (text)</marc:subfield>
         <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">From the French of Alain-Rene Le Sage, Author of the Celebrated Novels of "Gil Bas" and "The Devil Upon Crutches."</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
@@ -25814,7 +25795,7 @@
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="710">
         <marc:subfield code="a">G. G. and J. Robinson</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>         
 	<marc:datafield ind1="2" ind2=" " tag="710">
@@ -25974,7 +25955,7 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="592">
         <marc:subfield code="a">Epistolary</marc:subfield>
-        <marc:subfield code="b">First-Person</marc:subfield>
+        <marc:subfield code="a">First-person</marc:subfield>
     </marc:datafield>
    <marc:datafield ind1=" " ind2=" " tag="593">
         <marc:subfield code="a">Mr. Ashton Alexander, M.D. Baltimore, 2 copies., William Ashton, South Carolina., Mrs. Charlotte Allcorn., Mary Adgate., Mr. Samuel Anderson, jun., Hector Aitjen., Allen.</marc:subfield>
@@ -26252,7 +26233,7 @@
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Relf, Samuel</marc:subfield>
 		<marc:subfield code="d">1776-1823</marc:subfield>
-		<marc:subfield code="4">Author(text)</marc:subfield>
+		<marc:subfield code="4">Author (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
@@ -26631,7 +26612,7 @@
         <marc:subfield code="c">Alexander Pope</marc:subfield>            
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="592">
-        <marc:subfield code="a">Third-Person</marc:subfield>
+        <marc:subfield code="a">Third-person</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="594">
         <marc:subfield code="a">[illegible] 1815</marc:subfield>
@@ -26686,8 +26667,8 @@
 		<marc:subfield code="s">9555</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
-		<marc:subfield code="a">f</marc:subfield>
-		<marc:subfield code="b">2000/07/11</marc:subfield>
+		<marc:subfield code="a">F</marc:subfield>
+		<marc:subfield code="b">11/7/00</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="989"> 
         <marc:subfield code="2">Friend</marc:subfield>
@@ -27004,17 +26985,17 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Ink</marc:subfield>
-        <marc:subfield code="b">Reader Markigs</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">Scribblings on pages 3, 180, 181, 198.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Ink</marc:subfield>
-        <marc:subfield code="b">Reader Markigs</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">Scribblings and writings on verso of the back free endpaper, back free endpaper, and back paste-down endpaper.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">By Mrs. Pilkington</marc:subfield>
         <marc:subfield code="3">Title Page</marc:subfield>
         <marc:subfield code="5">Female</marc:subfield>
@@ -27044,13 +27025,13 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Newbery, E. (Elizabeth)</marc:subfield>
         <marc:subfield code="d">1746-1821</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Pilkington, Mary</marc:subfield>
         <marc:subfield code="d">1766-1839</marc:subfield>
-        <marc:subfield code="4">Author(text)</marc:subfield>
+        <marc:subfield code="4">Author (text)</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
@@ -27272,7 +27253,7 @@
 		<marc:subfield code="2">By the author of Plain Sense.</marc:subfield>
 		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>	
 	<marc:datafield ind1=" " ind2="4" tag="650">
 		<marc:subfield code="a">CHR 1797</marc:subfield>
@@ -27575,7 +27556,7 @@
     </marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">IC</marc:subfield>
-		<marc:subfield code="b">7/30/18</marc:subfield>
+		h
 		<marc:subfield code="c">University of Pennsylvania</marc:subfield>
 		<marc:subfield code="d">OF</marc:subfield>
 	</marc:datafield>
@@ -27682,7 +27663,7 @@
 		<marc:subfield code="c">1496</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Advertisment</marc:subfield>
+        <marc:subfield code="a">Advertisement</marc:subfield>
         <marc:subfield code="b">Advertisement.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="x">Transcription of first sentence: "The following work is delivered to the world as the first of a series of performances, which the favorable reception of this will induce the writer to publish"; Signed: "C. B. B."; Dated: "September 3, 1798."</marc:subfield>
@@ -27701,7 +27682,7 @@
         <marc:subfield code="a">Author (paratext)</marc:subfield>
         <marc:subfield code="b">Initials</marc:subfield>
         <marc:subfield code="2">C. B. B.</marc:subfield>
-        <marc:subfield code="3">Advertisment</marc:subfield>
+        <marc:subfield code="3">Advertisement</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
         <marc:subfield code="6">Male</marc:subfield>
     </marc:datafield>
@@ -28041,7 +28022,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/31/18</marc:subfield>
 		<marc:subfield code="d">IC</marc:subfield>
 	</marc:datafield>
@@ -28209,7 +28190,6 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="593">
         <marc:subfield code="a">Miss Archdeacon, Edinburgh; Capt. Steven Atkinson; Mrs. John Atkinson; Miss Baldwin, 3 copies; Doctor Bancroft; Miss Bancroft; Miss Julia Bancroft; Richard Barker, Esq.; Mrs. Barker, 2 copies;</marc:subfield>
-        <marc:subfield code="v">v.1</marc:subfield>
         <marc:subfield code="x">Only first page is recorded here.</marc:subfield>
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="596">
@@ -28468,7 +28448,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="591">
 		<marc:subfield code="a">Oh serpent heart, hid with a flowery face, ---Did ever dragon keep so fair a cave? ---Beautiful tyrant, fiend angelical! ---.......... ---Just so opposite to what thou justly seem'st.</marc:subfield>
-		<marc:subfield code="3">Shakespeare.</marc:subfield>
+		<marc:subfield code="2">Shakespeare.</marc:subfield>
 		<marc:subfield code="b">Romeo and Juliet</marc:subfield>
 		<marc:subfield code="c">William Shakespeare</marc:subfield>
 	</marc:datafield>
@@ -28501,7 +28481,6 @@
 	</marc:datafield>
 	<marc:datafield ind1="0" ind2="0" tag="700">
 		<marc:subfield code="a">Helen,</marc:subfield>
-		<marc:subfield code="c">of Herefordshire.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Martin, Mrs.</marc:subfield>
@@ -28734,7 +28713,7 @@
 	    <marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">Written by Sir Samuel Egerton Leigh</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -29172,14 +29151,14 @@
 		<marc:subfield code="x">Transcription of first sentence: "The life of an author is generally an object of the public attention, in proportion to the celebrity of his writings."</marc:subfield>     
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents of Vol. I.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Table of Contents of each book within the volume plus a summary and the page number.</marc:subfield>     
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">The binder is directed to arrange the engravings as follows:</marc:subfield>
 		<marc:subfield code="c">Back</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
@@ -29192,7 +29171,7 @@
 		<marc:subfield code="x">Footnotes on pages: 4, 8, 9, 11, 12, 13, 14, 15, 18, 19, 20, 23-37.</marc:subfield>     
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents of Vol. II.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
@@ -29484,7 +29463,6 @@
 	<marc:datafield ind1="1" ind2="1" tag="700">
 		<marc:subfield code="a">Reeve, Clara,</marc:subfield>
 		<marc:subfield code="d">1729-1807.</marc:subfield>
-		<marc:subfield code="t">Champion of virtue.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Reeve, Clara</marc:subfield>
@@ -29551,7 +29529,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/19/18</marc:subfield>
 		<marc:subfield code="d">AS</marc:subfield>
 	</marc:datafield>
@@ -29745,7 +29723,7 @@
     </marc:datafield>  
 <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">J. Robinson</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Unauthorized</marc:subfield>
     </marc:datafield>
 
@@ -29996,28 +29974,28 @@
 		<marc:subfield code="a">All's well that end's well; or, Alvaro and Ximenes. Vol. I.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Half</marc:subfield>
-		<marc:subfield code="v">Vol.1</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">All's well that end's well; or, Alvaro and Ximenes. A Spanish tale. Translated from the German of Dr. C.F Bahrdt. In two volumes.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">Vol.1</marc:subfield>
+		<marc:subfield code="v">v.1</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2="0" tag="246">
 		<marc:subfield code="a">All's well that end's well; or, Alvaro and Ximenes. Vol. II.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Half</marc:subfield>
-		<marc:subfield code="v">Vol.2</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="246">
 		<marc:subfield code="a">All's well that end's well; or, Alvaro and Ximenes. A Spanish tale. Translated from the German of Dr. C.F Bahrdt. In two volumes.</marc:subfield>
 		<marc:subfield code="d">Letter-press</marc:subfield>
 		<marc:subfield code="g">Full</marc:subfield>
-		<marc:subfield code="v">Vol.2</marc:subfield>
+		<marc:subfield code="v">v.2</marc:subfield>
 		<marc:subfield code="x">Volume</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="0" ind2="7" tag="246">
@@ -30091,7 +30069,7 @@
 		<marc:subfield code="a">Author (text)</marc:subfield>
 		<marc:subfield code="b">Proper name</marc:subfield>
 		<marc:subfield code="2">Dr. C.F. Bahrdt</marc:subfield>
-		<marc:subfield code="3">Title page</marc:subfield>
+		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
 		<marc:subfield code="6">Male</marc:subfield>
 	</marc:datafield>
@@ -30498,7 +30476,7 @@
         <marc:subfield code="2">I am, your royal highness's most obedient servant, The editor.</marc:subfield>
         <marc:subfield code="3">Dedication</marc:subfield>
         <marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
     </marc:datafield> 
 	<marc:datafield ind1=" " ind2=" " tag="599">
 		<marc:subfield code="a">Editor (text)</marc:subfield>
@@ -30506,7 +30484,7 @@
 		<marc:subfield code="2">I am, your royal highness's most obedient servant, The editor.</marc:subfield>
 		<marc:subfield code="3">Dedication</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
 		<marc:subfield code="a">Author (paratext)</marc:subfield>
@@ -30514,7 +30492,7 @@
 		<marc:subfield code="2">The editor to the reader.</marc:subfield>
 		<marc:subfield code="3">To the Reader</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2="4" tag="650">
 		<marc:subfield code="a">CHR 1797</marc:subfield>
@@ -30793,22 +30771,22 @@
     </marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Ink</marc:subfield>
-        <marc:subfield code="b">Reader Markings</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">Transcription of marking on front free endpaper: March the 25th 1821</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Pencil</marc:subfield>
-        <marc:subfield code="b">Reader Markings</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">Transcription on after endpaper: George [Gerrere?] his book after personal return Remember well and bear in mind a trusty friend friend is hard to find When you get one guest and there never henge him for a new.</marc:subfield>
 	</marc:datafield>	
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Pencil</marc:subfield>
-        <marc:subfield code="b">Reader Markings</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">Transcription on title page, some words washed out: [illegible]</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="595">
         <marc:subfield code="a">Pencil</marc:subfield>
-        <marc:subfield code="b">Reader Markings</marc:subfield>
+        <marc:subfield code="b">Reader markings</marc:subfield>
         <marc:subfield code="x">Transcription of writing on the recto of first page: [illegible]</marc:subfield>
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="599">
@@ -30827,27 +30805,21 @@
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Judah, Naphtali,</marc:subfield>
 		<marc:subfield code="d">1773?-1855,</marc:subfield>
-		<marc:subfield code="e">bookseller.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Scoles, John,</marc:subfield>
 		<marc:subfield code="d">1772?-1853,</marc:subfield>
-		<marc:subfield code="e">engraver.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Davis, William</marc:subfield>
-		<marc:subfield code="e">printer.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Goethe, Johann Wolfgang von,</marc:subfield>
 		<marc:subfield code="d">1749-1832.</marc:subfield>
-		<marc:subfield code="t">Werther.</marc:subfield>
-		<marc:subfield code="l">English.</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1="1" ind2=" " tag="700">
 		<marc:subfield code="a">Goethe, Johann Wolfgang von,</marc:subfield>
 		<marc:subfield code="d">1749-1832.</marc:subfield>
-		<marc:subfield code="t">Werther.</marc:subfield>
 	</marc:datafield>
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Davis, William A.</marc:subfield>
@@ -31009,7 +30981,7 @@
     </marc:datafield>     
     <marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Author (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">the work of the amiable and immortal Fenelon</marc:subfield>
         <marc:subfield code="3">Dedication</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -31018,7 +30990,7 @@
     </marc:datafield>    
     <marc:datafield ind1=" " ind2=" " tag="599">
         <marc:subfield code="a">Translator (text)</marc:subfield>
-        <marc:subfield code="b">Proper Name</marc:subfield>
+        <marc:subfield code="b">Proper name</marc:subfield>
         <marc:subfield code="2">Revised and corrected by Joseph Nancrede, French instructor in the University of Cambridge.</marc:subfield>
         <marc:subfield code="3">Dedication</marc:subfield>
         <marc:subfield code="5">Male</marc:subfield>
@@ -31050,7 +31022,7 @@
     <marc:datafield ind1=" " ind2=" " tag="700">
         <marc:subfield code="a">Decombaz, Gabriel</marc:subfield>
         <marc:subfield code="d">-1799</marc:subfield>
-        <marc:subfield code="4">Printed For</marc:subfield>
+        <marc:subfield code="4">Printed for</marc:subfield>
         <marc:subfield code="5">Authorized</marc:subfield>
     </marc:datafield>
 	<marc:datafield ind1="2" ind2=" " tag="710">
@@ -31262,31 +31234,31 @@
 		<marc:subfield code="x">Begins: "The author of this little work cannot, in the anxious moment of combining it to its fate, refuse herself the indulgence of expressing some portion of the gratitude with which she is skilled, by the highly favorable reception given to her two former attempts in this species of composition; nor forbear pouring fourth her thanks to the many friends whose kind zeal has forwarded the present undertaking:--from amongst whom she knows not how to resist selecting and gratifying herself by naming the Hon. Mrs. Boscawen, Mrs. Crewe, and Mrs. Locke."</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.1</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.2</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.3</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.4</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="520">
-		<marc:subfield code="a">Table of Contents</marc:subfield>
+		<marc:subfield code="a">Table of contents</marc:subfield>
 		<marc:subfield code="b">Contents.</marc:subfield>
 		<marc:subfield code="c">Front</marc:subfield>
 		<marc:subfield code="v">v.5</marc:subfield>
@@ -31302,7 +31274,7 @@
 		<marc:subfield code="2">John Bull, American publisher</marc:subfield>
 		<marc:subfield code="3">Preface</marc:subfield>
 		<marc:subfield code="5">Male</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="599">
 		<marc:subfield code="a">Author (paratext)</marc:subfield>
@@ -31317,7 +31289,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="700">
 		<marc:subfield code="a">Burney, Fanny</marc:subfield>
-		<marc:subfield code="b">1752-1840</marc:subfield>
+		<marc:subfield code="d">1752-1840</marc:subfield>
 		<marc:subfield code="4">Author (text)</marc:subfield>
 		<marc:subfield code="5">Authorized</marc:subfield>
 	</marc:datafield>
@@ -31965,7 +31937,7 @@
 		<marc:subfield code="2">By the author of Deloraine.</marc:subfield>
 		<marc:subfield code="3">Title Page</marc:subfield>
 		<marc:subfield code="5">Indeterminate</marc:subfield>
-		<marc:subfield code="6">Unknown</marc:subfield>
+		<marc:subfield code="6">Indeterminate</marc:subfield>
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2="7" tag="655">
 		<marc:subfield code="a">Booksellers' advertisements</marc:subfield>
@@ -32765,7 +32737,7 @@
 	</marc:datafield>
 	<marc:datafield ind1=" " ind2=" " tag="999">
 		<marc:subfield code="a">SH</marc:subfield>
-		<marc:subfield code="b">Swarthmore College</marc:subfield>
+		<marc:subfield code="c">Swarthmore College</marc:subfield>
 		<marc:subfield code="c">7/30/18</marc:subfield>
 		<marc:subfield code="d">DPL</marc:subfield>
 	</marc:datafield>
@@ -32879,13 +32851,13 @@
 	</marc:datafield>
 
 	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the First Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.1</marc:subfield>    
    	</marc:datafield>
    	<marc:datafield ind1=" " ind2=" " tag="520" >
-        <marc:subfield code="a">Table of Contents</marc:subfield>
+        <marc:subfield code="a">Table of contents</marc:subfield>
         <marc:subfield code="b">Contents of the Second Volume.</marc:subfield>
         <marc:subfield code="c">Front</marc:subfield>
         <marc:subfield code="v">v.2</marc:subfield>    
