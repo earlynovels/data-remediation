@@ -12,7 +12,7 @@ The most recent master copy of the dataset is located on the [END Dataset reposi
 
 - 11-28-18 identifying and removing empty records from canonical datafile. Empty records can be viewed [here](https://github.com/earlynovels/data-remediation/blob/master/old/pre-2014-empty-recs.xml)
 
-- 11-28-18 compiling remediated datasets for new canonical dataset.
+- 11-28-18 compiling remediated datasets for new canonical dataset: (11282018-full.xml)
 
 ## Summer 2018 Dataset modifications
 
