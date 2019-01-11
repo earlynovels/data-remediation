@@ -14,6 +14,8 @@ The most recent master copy of the dataset is located on the [END Dataset reposi
 
 - 11-28-18 compiling remediated datasets for new canonical dataset: (11282018-full.xml)
 
+- 1-11-19 adding 18 previously excluded 2015 records: (missing-2015.xml)
+
 ## Summer 2018 Dataset modifications
 
 Remediating 2017 and previous records: Changes pushed directly to [09132017-full.mrk](/earlynovels/data-remediation/blob/master/09132017-full.mrk)
